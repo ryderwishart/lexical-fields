@@ -1,20 +1,40 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
+  body {
+    height: 100%;
+    width: 100%;
+    background-color: gainsboro;
+  }
+  
+  .wrapper {
+    text-align: center;
+    position: absolute;
+    /* margin: 0 auto; */
+    height: 100%;
+    width: 100%;
+    background: gainsboro;
+    overflow-y: hidden;
+  }
+
   .svg-container {
     display: inline-block;
     position: relative;
-    width: 50%;
-    padding-bottom: 100%;
+    width: 100%;
+    height:100%;
     vertical-align: top;
     overflow: hidden;
+    overflow-y: hidden;
   }
 
   .svg-content {
     display: inline-block;
-    position: absolute;
+    position: relative;
+    background: none;
     top: 0;
     left: 0;
+    padding: 0;
+    overflow-y: hidden;
   }
 
   .links line {
@@ -31,19 +51,60 @@
     font-family: minion-pro;
     font-size: 10px;
   }
+
+  h1 {
+    position: absolute;
+    overflow-y: hidden;
+  }
+
+  #toolbar {
+margin-top: 10px;
+margin-left: 25px;
+background:#fff;
+background-color:rgba(255,255,255,0.8);
+border:1px solid #ccc;
+z-index:20;
+position:fixed;
+top:0;
+}
+#mainpanel .col {
+width: 240px;
+padding: 18px 18px 18px 18px;
+margin: 0;
+
+}
+  #toolbar a, 
+  #toolbar h3 {
+    font-size: 0.9em;
+    margin: 0 0.5em;
+    color: white;
+  }
+
 </style>
-<body>
+
+<body style="overflow-y:hidden">
   <title>Lexical Field Generator</title>
-  <h1>Lexical Fields</h1>
-  <div id="container" class="svg-container"></div>
+  <div class="wrapper">
+      <nav class="toolbar">
+          <h3>Semantic.map</h3>
+          <form><input type="text" id="searchBar" autofocus /></form>
+        </nav>
+    <div id="container" class="svg-container">
+        
+    </div>
+  </div>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script>
 
-    var w = 1500;
-    var h = 1500
+    var w = 1000;
+    var h = 1000
 
     var svg = d3.select("div#container")
       .append("svg")
+      .attr(
+        "style",
+        "padding-bottom: " + Math.ceil(h * 100 / w) + "%"
+      )
       .attr("preserveAspectRatio", "xMinYMin meet")
       .attr("viewBox", "0 0 " + w + " " + h)
       .attr("id", "svg-id")

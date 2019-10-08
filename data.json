@@ -4,1513 +4,1513 @@
             "label": "συγκατατίθημι",
             "id": "59",
             "attributes": {
-                "abstract-index": "1.0204654522881564"
+                "abstract-index": "1.02"
             },
             "color": "rgb(181,209,187)",
-            "value": 16.522933959960938
+            "value": 16.5
         },
         {
             "label": "εὐδοκέω",
             "id": "69",
             "attributes": {
-                "abstract-index": "1.0426549847564959"
+                "abstract-index": "1.04"
             },
             "color": "rgb(215,230,189)",
-            "value": 18.145076751708984
+            "value": 18.1
         },
         {
             "label": "δοξόω/δοκέω",
             "id": "82",
             "attributes": {
-                "abstract-index": "1.1570094302648266"
+                "abstract-index": "1.1"
             },
             "color": "rgb(248,217,164)",
-            "value": 21.63275146484375
+            "value": 21.6
         },
         {
             "label": "φενακίζω",
             "id": "102",
             "attributes": {
-                "abstract-index": "1.344553704121888"
+                "abstract-index": "1.3"
             },
             "color": "rgb(239,163,125)",
-            "value": 23.99734115600586
+            "value": 23.9
         },
         {
             "label": "προσπαροξύνω",
             "id": "142",
             "attributes": {
-                "abstract-index": "2.8145606673367016"
+                "abstract-index": "2.8"
             },
             "color": "rgb(220,58,51)",
-            "value": 28.541698455810547
+            "value": 28.5
         },
         {
             "label": "ἐπικρύπτω",
             "id": "135",
             "attributes": {
-                "abstract-index": "1.0733946235688083"
+                "abstract-index": "1.07"
             },
             "color": "rgb(244,248,190)",
-            "value": 19.50965118408203
+            "value": 19.5
         },
         {
             "label": "πιστεύω",
             "id": "139",
             "attributes": {
-                "abstract-index": "1.0013708750727435"
+                "abstract-index": "1.01"
             },
             "color": "rgb(98,157,184)",
-            "value": 12.600420951843262
+            "value": 12.6
         },
         {
             "label": "περί-εἶδον",
             "id": "55",
             "attributes": {
-                "abstract-index": "1.1547720291330739"
+                "abstract-index": "1.1"
             },
             "color": "rgb(248,218,165)",
-            "value": 21.590774536132812
+            "value": 21.5
         },
         {
             "label": "καταράομαι",
             "id": "22",
             "attributes": {
-                "abstract-index": "1.0663657071421269"
+                "abstract-index": "1.06"
             },
             "color": "rgb(239,245,190)",
-            "value": 19.246273040771484
+            "value": 19.2
         },
         {
             "label": "ἀξιόω",
             "id": "145",
             "attributes": {
-                "abstract-index": "1.002167018538665"
+                "abstract-index": "1.02"
             },
             "color": "rgb(108,163,184)",
-            "value": 13.07075023651123
+            "value": 13.07
         },
         {
             "label": "θεολογέω",
             "id": "73",
             "attributes": {
-                "abstract-index": "1.3178548181798941"
+                "abstract-index": "1.3"
             },
             "color": "rgb(239,168,129)",
-            "value": 23.751358032226562
+            "value": 23.7
         },
         {
             "label": "ὑπακούω",
             "id": "140",
             "attributes": {
-                "abstract-index": "1.0072705104711819"
+                "abstract-index": "1.07"
             },
             "color": "rgb(142,184,186)",
-            "value": 14.669886589050293
+            "value": 14.6
         },
         {
             "label": "ἀπειθέω",
             "id": "71",
             "attributes": {
-                "abstract-index": "1.032946310037129"
+                "abstract-index": "1.03"
             },
             "color": "rgb(203,222,188)",
-            "value": 17.544795989990234
+            "value": 17.5
         },
         {
             "label": "ἐλέγχω",
             "id": "66",
             "attributes": {
-                "abstract-index": "1.0051315251632165"
+                "abstract-index": "1.05"
             },
             "color": "rgb(131,177,185)",
-            "value": 14.151657104492188
+            "value": 14.1
         },
         {
             "label": "αἰτιάομαι",
             "id": "2",
             "attributes": {
-                "abstract-index": "1.0072494421150455"
+                "abstract-index": "1.07"
             },
             "color": "rgb(142,184,186)",
-            "value": 14.665363311767578
+            "value": 14.6
         },
         {
             "label": "ψεύδω",
             "id": "64",
             "attributes": {
-                "abstract-index": "1.0080334904749815"
+                "abstract-index": "1.08"
             },
             "color": "rgb(145,186,186)",
-            "value": 14.827665328979492
+            "value": 14.8
         },
         {
             "label": "ὑποκατακλίνομαι",
             "id": "118",
             "attributes": {
-                "abstract-index": "2.105074064803971"
+                "abstract-index": "2.1"
             },
             "color": "rgb(225,85,70)",
-            "value": 27.37809944152832
+            "value": 27.3
         },
         {
             "label": "παραβαίνω/παράπτω",
             "id": "34",
             "attributes": {
-                "abstract-index": "1.1457560191164367"
+                "abstract-index": "1.1"
             },
             "color": "rgb(249,222,167)",
-            "value": 21.415912628173828
+            "value": 21.4
         },
         {
             "label": "ἐγκαλέω",
             "id": "42",
             "attributes": {
-                "abstract-index": "1.0111609427304455"
+                "abstract-index": "1.01"
             },
             "color": "rgb(157,193,186)",
-            "value": 15.378240585327148
+            "value": 15.3
         },
         {
             "label": "μαρτυρέω",
             "id": "81",
             "attributes": {
-                "abstract-index": "1.0096395268174336"
+                "abstract-index": "1.09"
             },
             "color": "rgb(152,190,186)",
-            "value": 15.126941680908203
+            "value": 15.1
         },
         {
             "label": "φημί",
             "id": "158",
             "attributes": {
-                "abstract-index": "1.0000949425423475"
+                "abstract-index": "1.09"
             },
             "color": "rgb(72,141,183)",
-            "value": 11.370928764343262
+            "value": 11.3
         },
         {
             "label": "ἐξαπατάω/ἐξαπάτη",
             "id": "84",
             "attributes": {
-                "abstract-index": "1.2111882780307137"
+                "abstract-index": "1.2"
             },
             "color": "rgb(244,197,150)",
-            "value": 22.51209259033203
+            "value": 22.5
         },
         {
             "label": "ἐξελέγχω",
             "id": "7",
             "attributes": {
-                "abstract-index": "1.0209274981414433"
+                "abstract-index": "1.02"
             },
             "color": "rgb(182,209,187)",
-            "value": 16.568397521972656
+            "value": 16.5
         },
         {
             "label": "ἐρίζω",
             "id": "162",
             "attributes": {
-                "abstract-index": "1.0659219941551448"
+                "abstract-index": "1.06"
             },
             "color": "rgb(238,244,190)",
-            "value": 19.228885650634766
+            "value": 19.2
         },
         {
             "label": "καινοτομέω",
             "id": "101",
             "attributes": {
-                "abstract-index": "1.1148607426697668"
+                "abstract-index": "1.1"
             },
             "color": "rgb(252,238,179)",
-            "value": 20.733642578125
+            "value": 20.7
         },
         {
             "label": "φανερός/φανερόω",
             "id": "147",
             "attributes": {
-                "abstract-index": "1.0077829036505896"
+                "abstract-index": "1.07"
             },
             "color": "rgb(144,186,186)",
-            "value": 14.777100563049316
+            "value": 14.7
         },
         {
             "label": "ἐπιβουλή",
             "id": "160",
             "attributes": {
-                "abstract-index": "1.0106744025460215"
+                "abstract-index": "1.01"
             },
             "color": "rgb(155,192,186)",
-            "value": 15.300790786743164
+            "value": 15.3
         },
         {
             "label": "διαβάλλω",
             "id": "3",
             "attributes": {
-                "abstract-index": "1.008934496749187"
+                "abstract-index": "1.08"
             },
             "color": "rgb(149,189,186)",
-            "value": 15.000455856323242
+            "value": 15.04
         },
         {
             "label": "χαλεπαίνω",
             "id": "23",
             "attributes": {
-                "abstract-index": "1.0448413066199258"
+                "abstract-index": "1.04"
             },
             "color": "rgb(218,232,189)",
-            "value": 18.264972686767578
+            "value": 18.2
         },
         {
             "label": "ἐγκαταλείπω",
             "id": "87",
             "attributes": {
-                "abstract-index": "1.013795667835127"
+                "abstract-index": "1.01"
             },
             "color": "rgb(165,199,187)",
-            "value": 15.75887393951416
+            "value": 15.7
         },
         {
             "label": "χαρίζω/χαρίζομαι",
             "id": "106",
             "attributes": {
-                "abstract-index": "1.0048482191861208"
+                "abstract-index": "1.04"
             },
             "color": "rgb(129,176,185)",
-            "value": 14.071859359741211
+            "value": 14.07
         },
         {
             "label": "πείθω",
             "id": "119",
             "attributes": {
-                "abstract-index": "1.001819596179131"
+                "abstract-index": "1.01"
             },
             "color": "rgb(104,161,184)",
-            "value": 12.883416175842285
+            "value": 12.8
         },
         {
             "label": "ἐπιτιμάω/ἐπιτιμή",
             "id": "137",
             "attributes": {
-                "abstract-index": "1.0808774807688493"
+                "abstract-index": "1.08"
             },
             "color": "rgb(250,251,190)",
-            "value": 19.76788330078125
+            "value": 19.7
         },
         {
             "label": "ἀπιστέω",
             "id": "65",
             "attributes": {
-                "abstract-index": "1.0077086236157922"
+                "abstract-index": "1.07"
             },
             "color": "rgb(144,185,186)",
-            "value": 14.761882781982422
+            "value": 14.7
         },
         {
             "label": "ἐναντιόομαι",
             "id": "85",
             "attributes": {
-                "abstract-index": "1.0114306512903541"
+                "abstract-index": "1.01"
             },
             "color": "rgb(158,194,186)",
-            "value": 15.420100212097168
+            "value": 15.4
         },
         {
             "label": "ἐξόμνυμι",
             "id": "134",
             "attributes": {
-                "abstract-index": "1.4870505384074049"
+                "abstract-index": "1.4"
             },
             "color": "rgb(234,138,108)",
-            "value": 25.048246383666992
+            "value": 25.04
         },
         {
             "label": "οἴομαι/οἰάω",
             "id": "78",
             "attributes": {
-                "abstract-index": "1.0063288628560272"
+                "abstract-index": "1.06"
             },
             "color": "rgb(138,181,186)",
-            "value": 14.457582473754883
+            "value": 14.4
         },
         {
             "label": "ἀρέσκω",
             "id": "91",
             "attributes": {
-                "abstract-index": "1.0113867636473877"
+                "abstract-index": "1.01"
             },
             "color": "rgb(158,194,186)",
-            "value": 15.413339614868164
+            "value": 15.4
         },
         {
             "label": "ἔξεστι/ἐξίημι",
             "id": "121",
             "attributes": {
-                "abstract-index": "1.0397689473955039"
+                "abstract-index": "1.03"
             },
             "color": "rgb(212,228,189)",
-            "value": 17.979055404663086
+            "value": 17.9
         },
         {
             "label": "ἐπιτάσσω",
             "id": "165",
             "attributes": {
-                "abstract-index": "1.0139545025813888"
+                "abstract-index": "1.01"
             },
             "color": "rgb(165,199,187)",
-            "value": 15.780020713806152
+            "value": 15.7
         },
         {
             "label": "περιαλγέω",
             "id": "53",
             "attributes": {
-                "abstract-index": "2.270677277126273"
+                "abstract-index": "2.2"
             },
             "color": "rgb(224,77,64)",
-            "value": 27.731220245361328
+            "value": 27.7
         },
         {
             "label": "πεῖσις/πάσχω/πεῖσος/πείθω",
             "id": "1",
             "attributes": {
-                "abstract-index": "2.30691972648113"
+                "abstract-index": "2.3"
             },
             "color": "rgb(223,75,63)",
-            "value": 27.800142288208008
+            "value": 27.8
         },
         {
             "label": "διαμαρτύρομαι",
             "id": "46",
             "attributes": {
-                "abstract-index": "1.2102513192765696"
+                "abstract-index": "1.2"
             },
             "color": "rgb(245,197,150)",
-            "value": 22.498748779296875
+            "value": 22.4
         },
         {
             "label": "ἀπολογέομαι",
             "id": "41",
             "attributes": {
-                "abstract-index": "1.0124257957051506"
+                "abstract-index": "1.01"
             },
             "color": "rgb(161,196,187)",
-            "value": 15.568476676940918
+            "value": 15.5
         },
         {
             "label": "μεταγιγνώσκω",
             "id": "32",
             "attributes": {
-                "abstract-index": "1.0812082543876746"
+                "abstract-index": "1.08"
             },
             "color": "rgb(250,252,190)",
-            "value": 19.778827667236328
+            "value": 19.7
         },
         {
             "label": "ἐπιορκέω",
             "id": "92",
             "attributes": {
-                "abstract-index": "1.134063609175267"
+                "abstract-index": "1.1"
             },
             "color": "rgb(250,227,171)",
-            "value": 21.174203872680664
+            "value": 21.1
         },
         {
             "label": "βιάζω/βιάω",
             "id": "17",
             "attributes": {
-                "abstract-index": "1.0274569477367044"
+                "abstract-index": "1.02"
             },
             "color": "rgb(194,217,188)",
-            "value": 17.140655517578125
+            "value": 17.1
         },
         {
             "label": "παρήκω/παρίημι",
             "id": "129",
             "attributes": {
-                "abstract-index": "1.2817631909948488"
+                "abstract-index": "1.2"
             },
             "color": "rgb(241,177,135)",
-            "value": 23.3841609954834
+            "value": 23.3
         },
         {
             "label": "πειθαρχέω",
             "id": "89",
             "attributes": {
-                "abstract-index": "1.0457075550505648"
+                "abstract-index": "1.04"
             },
             "color": "rgb(219,232,189)",
-            "value": 18.31118392944336
+            "value": 18.3
         },
         {
             "label": "διαφωνία",
             "id": "60",
             "attributes": {
-                "abstract-index": "1.0265683767648437"
+                "abstract-index": "1.02"
             },
             "color": "rgb(193,216,188)",
-            "value": 17.069425582885742
+            "value": 17.06
         },
         {
             "label": "διελέγχω",
             "id": "39",
             "attributes": {
-                "abstract-index": "1.0364436467626834"
+                "abstract-index": "1.03"
             },
             "color": "rgb(208,225,188)",
-            "value": 17.77544403076172
+            "value": 17.7
         },
         {
             "label": "κακίζω",
             "id": "57",
             "attributes": {
-                "abstract-index": "1.0879535049850184"
+                "abstract-index": "1.08"
             },
             "color": "rgb(254,254,190)",
-            "value": 19.994232177734375
+            "value": 19.9
         },
         {
             "label": "σοφίζω/σοφίζομαι",
             "id": "74",
             "attributes": {
-                "abstract-index": "1.0839848275194803"
+                "abstract-index": "1.08"
             },
             "color": "rgb(252,253,190)",
-            "value": 19.8692569732666
+            "value": 19.8
         },
         {
             "label": "ἐκκαλύπτω",
             "id": "163",
             "attributes": {
-                "abstract-index": "1.1416244213663198"
+                "abstract-index": "1.1"
             },
             "color": "rgb(249,224,169)",
-            "value": 21.332536697387695
+            "value": 21.3
         },
         {
             "label": "αἰδέομαι",
             "id": "0",
             "attributes": {
-                "abstract-index": "1.016138141856779"
+                "abstract-index": "1.01"
             },
             "color": "rgb(171,202,187)",
-            "value": 16.053916931152344
+            "value": 16.05
         },
         {
             "label": "ὑπονοέω",
             "id": "8",
             "attributes": {
-                "abstract-index": "1.0089329913709901"
+                "abstract-index": "1.08"
             },
             "color": "rgb(149,189,186)",
-            "value": 15.000177383422852
+            "value": 15.01
         },
         {
             "label": "ἰδιωτεύω",
             "id": "166",
             "attributes": {
-                "abstract-index": "1.2430658427708743"
+                "abstract-index": "1.2"
             },
             "color": "rgb(243,187,143)",
-            "value": 22.935800552368164
+            "value": 22.9
         },
         {
             "label": "ἐπηρεάζω",
             "id": "25",
             "attributes": {
-                "abstract-index": "1.1299318286291677"
+                "abstract-index": "1.1"
             },
             "color": "rgb(250,230,173)",
-            "value": 21.084314346313477
+            "value": 21.08
         },
         {
             "label": "ἀμφισβητέω",
             "id": "149",
             "attributes": {
-                "abstract-index": "1.0157444308266605"
+                "abstract-index": "1.01"
             },
             "color": "rgb(170,202,187)",
-            "value": 16.00668716430664
+            "value": 16.06
         },
         {
             "label": "προθυμέομαι",
             "id": "93",
             "attributes": {
-                "abstract-index": "1.0415370561404251"
+                "abstract-index": "1.04"
             },
             "color": "rgb(214,229,189)",
-            "value": 18.08186149597168
+            "value": 18.08
         },
         {
             "label": "παρεγγυάω",
             "id": "112",
             "attributes": {
-                "abstract-index": "1.3008540991782631"
+                "abstract-index": "1.3"
             },
             "color": "rgb(240,172,132)",
-            "value": 23.583789825439453
+            "value": 23.5
         },
         {
             "label": "ἔλεγχος/ἐλέγχω",
             "id": "67",
             "attributes": {
-                "abstract-index": "1.0109943004710717"
+                "abstract-index": "1.01"
             },
             "color": "rgb(156,193,186)",
-            "value": 15.35200023651123
+            "value": 15.3
         },
         {
             "label": "προσίημι",
             "id": "98",
             "attributes": {
-                "abstract-index": "1.012481684107453"
+                "abstract-index": "1.01"
             },
             "color": "rgb(161,196,187)",
-            "value": 15.576543807983398
+            "value": 15.5
         },
         {
             "label": "παρακαλέω",
             "id": "124",
             "attributes": {
-                "abstract-index": "1.0038543750818518"
+                "abstract-index": "1.03"
             },
             "color": "rgb(123,172,185)",
-            "value": 13.762334823608398
+            "value": 13.7
         },
         {
             "label": "προβουλεύω",
             "id": "29",
             "attributes": {
-                "abstract-index": "1.1561069313136134"
+                "abstract-index": "1.1"
             },
             "color": "rgb(248,217,164)",
-            "value": 21.615882873535156
+            "value": 21.6
         },
         {
             "label": "μεταπείθω",
             "id": "33",
             "attributes": {
-                "abstract-index": "1.166208848147308"
+                "abstract-index": "1.1"
             },
             "color": "rgb(247,213,161)",
-            "value": 21.79987335205078
+            "value": 21.7
         },
         {
             "label": "νομίζω",
             "id": "77",
             "attributes": {
-                "abstract-index": "1.0006642337275078"
+                "abstract-index": "1.06"
             },
             "color": "rgb(85,149,183)",
-            "value": 11.9876127243042
+            "value": 11.9
         },
         {
             "label": "παρίημι",
             "id": "128",
             "attributes": {
-                "abstract-index": "1.0271752032866244"
+                "abstract-index": "1.02"
             },
             "color": "rgb(194,216,188)",
-            "value": 17.11826515197754
+            "value": 17.1
         },
         {
             "label": "ἀρνέομαι",
             "id": "24",
             "attributes": {
-                "abstract-index": "1.0151140270751509"
+                "abstract-index": "1.01"
             },
             "color": "rgb(169,201,187)",
-            "value": 15.929176330566406
+            "value": 15.9
         },
         {
             "label": "ὀργίζω",
             "id": "26",
             "attributes": {
-                "abstract-index": "1.0147351836088652"
+                "abstract-index": "1.01"
             },
             "color": "rgb(168,200,187)",
-            "value": 15.881418228149414
+            "value": 15.8
         },
         {
             "label": "προλαμβάνω",
             "id": "116",
             "attributes": {
-                "abstract-index": "1.0078919000359683"
+                "abstract-index": "1.07"
             },
             "color": "rgb(145,186,186)",
-            "value": 14.799238204956055
+            "value": 14.7
         },
         {
             "label": "ἀξιόω/ἀξιάω",
             "id": "127",
             "attributes": {
-                "abstract-index": "1.0243335081807763"
+                "abstract-index": "1.02"
             },
             "color": "rgb(189,213,188)",
-            "value": 16.881757736206055
+            "value": 16.8
         },
         {
             "label": "συναίρω",
             "id": "86",
             "attributes": {
-                "abstract-index": "1.0532253946194725"
+                "abstract-index": "1.05"
             },
             "color": "rgb(227,237,189)",
-            "value": 18.685150146484375
+            "value": 18.6
         },
         {
             "label": "συνηγορέω",
             "id": "49",
             "attributes": {
-                "abstract-index": "1.1420130496263596"
+                "abstract-index": "1.1"
             },
             "color": "rgb(249,224,169)",
-            "value": 21.340471267700195
+            "value": 21.3
         },
         {
             "label": "δοκέω",
             "id": "76",
             "attributes": {
-                "abstract-index": "1.0006895324919125"
+                "abstract-index": "1.06"
             },
             "color": "rgb(86,149,183)",
-            "value": 12.014935493469238
+            "value": 12.01
         },
         {
             "label": "φιλονεικέω",
             "id": "161",
             "attributes": {
-                "abstract-index": "1.0828009370375116"
+                "abstract-index": "1.08"
             },
             "color": "rgb(251,252,190)",
-            "value": 19.831010818481445
+            "value": 19.8
         },
         {
             "label": "κατεῖπον",
             "id": "109",
             "attributes": {
-                "abstract-index": "1.2161847563958759"
+                "abstract-index": "1.2"
             },
             "color": "rgb(244,195,148)",
-            "value": 22.582321166992188
+            "value": 22.5
         },
         {
             "label": "μετά-διδάσκω",
             "id": "37",
             "attributes": {
-                "abstract-index": "1.8252970109245932"
+                "abstract-index": "1.8"
             },
             "color": "rgb(228,103,83)",
-            "value": 26.58953285217285
+            "value": 26.5
         },
         {
             "label": "ἀνά-σκέπτομαι",
             "id": "44",
             "attributes": {
-                "abstract-index": "5.707962557146775"
+                "abstract-index": "5.7"
             },
             "color": "rgb(215,28,30)",
-            "value": 29.84891700744629
+            "value": 29.8
         },
         {
             "label": "συμπράσσω",
             "id": "27",
             "attributes": {
-                "abstract-index": "1.035063572308743"
+                "abstract-index": "1.03"
             },
             "color": "rgb(206,224,188)",
-            "value": 17.68660545349121
+            "value": 17.6
         },
         {
             "label": "ψευδής",
             "id": "143",
             "attributes": {
-                "abstract-index": "1.0040827185303887"
+                "abstract-index": "1.04"
             },
             "color": "rgb(124,173,185)",
-            "value": 13.838088989257812
+            "value": 13.8
         },
         {
             "label": "ἀέκων/ἄκων",
             "id": "12",
             "attributes": {
-                "abstract-index": "1.012819466500608"
+                "abstract-index": "1.01"
             },
             "color": "rgb(162,197,187)",
-            "value": 15.624734878540039
+            "value": 15.6
         },
         {
             "label": "συγχωρέω",
             "id": "151",
             "attributes": {
-                "abstract-index": "1.00256878888565"
+                "abstract-index": "1.02"
             },
             "color": "rgb(112,166,184)",
-            "value": 13.262861251831055
+            "value": 13.2
         },
         {
             "label": "νουθετέω",
             "id": "14",
             "attributes": {
-                "abstract-index": "1.0356068044676556"
+                "abstract-index": "1.03"
             },
             "color": "rgb(206,224,188)",
-            "value": 17.72189712524414
+            "value": 17.7
         },
         {
             "label": "ὑφίημι/ὑπείκω",
             "id": "100",
             "attributes": {
-                "abstract-index": "1.267590209371067"
+                "abstract-index": "1.2"
             },
             "color": "rgb(242,180,138)",
-            "value": 23.227251052856445
+            "value": 23.2
         },
         {
             "label": "τυφλώττω",
             "id": "156",
             "attributes": {
-                "abstract-index": "1.4643181158418417"
+                "abstract-index": "1.4"
             },
             "color": "rgb(235,142,111)",
-            "value": 24.90408706665039
+            "value": 24.9
         },
         {
             "label": "κατοκνέω",
             "id": "43",
             "attributes": {
-                "abstract-index": "1.4737746660495454"
+                "abstract-index": "1.4"
             },
             "color": "rgb(235,140,110)",
-            "value": 24.964950561523438
+            "value": 24.9
         },
         {
             "label": "βραδύνω",
             "id": "30",
             "attributes": {
-                "abstract-index": "1.047983319893141"
+                "abstract-index": "1.04"
             },
             "color": "rgb(221,234,189)",
-            "value": 18.4293212890625
+            "value": 18.4
         },
         {
             "label": "λανθάνω/ἐλαύνω",
             "id": "115",
             "attributes": {
-                "abstract-index": "1.1158798515392976"
+                "abstract-index": "1.1"
             },
             "color": "rgb(251,237,178)",
-            "value": 20.758583068847656
+            "value": 20.7
         },
         {
             "label": "βλασφημέω",
             "id": "19",
             "attributes": {
-                "abstract-index": "1.0339448383492749"
+                "abstract-index": "1.03"
             },
             "color": "rgb(204,223,188)",
-            "value": 17.61254119873047
+            "value": 17.6
         },
         {
             "label": "φάσκω",
             "id": "157",
             "attributes": {
-                "abstract-index": "1.002131226395163"
+                "abstract-index": "1.02"
             },
             "color": "rgb(108,163,184)",
-            "value": 13.05246353149414
+            "value": 13.05
         },
         {
             "label": "πειράζω",
             "id": "141",
             "attributes": {
-                "abstract-index": "1.0451729957035376"
+                "abstract-index": "1.04"
             },
             "color": "rgb(218,232,189)",
-            "value": 18.28274917602539
+            "value": 18.2
         },
         {
             "label": "παρακρούω",
             "id": "132",
             "attributes": {
-                "abstract-index": "1.0735907953996118"
+                "abstract-index": "1.07"
             },
             "color": "rgb(244,248,190)",
-            "value": 19.516695022583008
+            "value": 19.5
         },
         {
             "label": "πεῖσα/πείθω",
             "id": "113",
             "attributes": {
-                "abstract-index": "1.0450810569626015"
+                "abstract-index": "1.04"
             },
             "color": "rgb(218,232,189)",
-            "value": 18.27783203125
+            "value": 18.2
         },
         {
             "label": "ἄντικρυς",
             "id": "159",
             "attributes": {
-                "abstract-index": "1.0100044810193782"
+                "abstract-index": "1.01"
             },
             "color": "rgb(153,191,186)",
-            "value": 15.189757347106934
+            "value": 15.1
         },
         {
             "label": "ὑποπτεύω/ὑποπτάω",
             "id": "51",
             "attributes": {
-                "abstract-index": "1.2288932333504436"
+                "abstract-index": "1.2"
             },
             "color": "rgb(243,191,146)",
-            "value": 22.75431251525879
+            "value": 22.7
         },
         {
             "label": "οἶμαι/οἴμη/οἴομαι",
             "id": "35",
             "attributes": {
-                "abstract-index": "1.001676895902681"
+                "abstract-index": "1.01"
             },
             "color": "rgb(103,159,184)",
-            "value": 12.799234390258789
+            "value": 12.7
         },
         {
             "label": "δικαιόω",
             "id": "68",
             "attributes": {
-                "abstract-index": "1.0154067753947007"
+                "abstract-index": "1.01"
             },
             "color": "rgb(169,201,187)",
-            "value": 15.96546745300293
+            "value": 15.9
         },
         {
             "label": "ἀντιλέγω",
             "id": "150",
             "attributes": {
-                "abstract-index": "1.012608496440386"
+                "abstract-index": "1.01"
             },
             "color": "rgb(162,196,187)",
-            "value": 15.594749450683594
+            "value": 15.5
         },
         {
             "label": "μεγαλοφρονέω",
             "id": "52",
             "attributes": {
-                "abstract-index": "1.6788964029781501"
+                "abstract-index": "1.6"
             },
             "color": "rgb(230,116,92)",
-            "value": 26.032278060913086
+            "value": 26.03
         },
         {
             "label": "προσποιέω",
             "id": "138",
             "attributes": {
-                "abstract-index": "1.0121153414201989"
+                "abstract-index": "1.01"
             },
             "color": "rgb(160,195,186)",
-            "value": 15.523167610168457
+            "value": 15.5
         },
         {
             "label": "προδοσία",
             "id": "10",
             "attributes": {
-                "abstract-index": "1.0292426324372463"
+                "abstract-index": "1.02"
             },
             "color": "rgb(197,219,188)",
-            "value": 17.278541564941406
+            "value": 17.2
         },
         {
             "label": "πρώτειος/πρωτεῖον",
             "id": "148",
             "attributes": {
-                "abstract-index": "1.1348652498992307"
+                "abstract-index": "1.1"
             },
             "color": "rgb(250,227,171)",
-            "value": 21.191362380981445
+            "value": 21.1
         },
         {
             "label": "διασύρω",
             "id": "11",
             "attributes": {
-                "abstract-index": "1.1316298881168216"
+                "abstract-index": "1.1"
             },
             "color": "rgb(250,229,172)",
-            "value": 21.121559143066406
+            "value": 21.1
         },
         {
             "label": "προσκρούω",
             "id": "146",
             "attributes": {
-                "abstract-index": "1.0699356619334925"
+                "abstract-index": "1.06"
             },
             "color": "rgb(241,246,190)",
-            "value": 19.382787704467773
+            "value": 19.3
         },
         {
             "label": "πληροφορέω",
             "id": "117",
             "attributes": {
-                "abstract-index": "1.1739031028528022"
+                "abstract-index": "1.1"
             },
             "color": "rgb(247,210,159)",
-            "value": 21.933345794677734
+            "value": 21.9
         },
         {
             "label": "δίδαγμα",
             "id": "36",
             "attributes": {
-                "abstract-index": "1.157102814078222"
+                "abstract-index": "1.1"
             },
             "color": "rgb(248,217,164)",
-            "value": 21.634490966796875
+            "value": 21.6
         },
         {
             "label": "κοινόω",
             "id": "45",
             "attributes": {
-                "abstract-index": "1.0765799746408395"
+                "abstract-index": "1.07"
             },
             "color": "rgb(247,250,190)",
-            "value": 19.622148513793945
+            "value": 19.6
         },
         {
             "label": "διαφωνέω",
             "id": "61",
             "attributes": {
-                "abstract-index": "1.0215053194626738"
+                "abstract-index": "1.02"
             },
             "color": "rgb(183,210,187)",
-            "value": 16.624187469482422
+            "value": 16.6
         },
         {
             "label": "ἀπαγορεύω",
             "id": "130",
             "attributes": {
-                "abstract-index": "1.0152955588318993"
+                "abstract-index": "1.01"
             },
             "color": "rgb(169,201,187)",
-            "value": 15.951742172241211
+            "value": 15.9
         },
         {
             "label": "ὑπολαμβάνω",
             "id": "79",
             "attributes": {
-                "abstract-index": "1.0016309151862366"
+                "abstract-index": "1.01"
             },
             "color": "rgb(102,159,184)",
-            "value": 12.771056175231934
+            "value": 12.7
         },
         {
             "label": "καυχάομαι",
             "id": "110",
             "attributes": {
-                "abstract-index": "1.04533358918367"
+                "abstract-index": "1.04"
             },
             "color": "rgb(218,232,189)",
-            "value": 18.29132080078125
+            "value": 18.2
         },
         {
             "label": "παραλείπω/παραλείφω",
             "id": "133",
             "attributes": {
-                "abstract-index": "1.1200375529542306"
+                "abstract-index": "1.1"
             },
             "color": "rgb(251,235,177)",
-            "value": 20.858402252197266
+            "value": 20.8
         },
         {
             "label": "ἀπελέγχω",
             "id": "75",
             "attributes": {
-                "abstract-index": "1.4566187570709417"
+                "abstract-index": "1.4"
             },
             "color": "rgb(235,143,111)",
-            "value": 24.85354995727539
+            "value": 24.8
         },
         {
             "label": "συμβουλεύω",
             "id": "126",
             "attributes": {
-                "abstract-index": "1.0080694574869713"
+                "abstract-index": "1.08"
             },
             "color": "rgb(146,186,186)",
-            "value": 14.83482837677002
+            "value": 14.8
         },
         {
             "label": "μνησικακέω",
             "id": "104",
             "attributes": {
-                "abstract-index": "1.062378265920556"
+                "abstract-index": "1.06"
             },
             "color": "rgb(235,242,190)",
-            "value": 19.0864315032959
+            "value": 19.08
         },
         {
             "label": "ἀντεῖπον",
             "id": "120",
             "attributes": {
-                "abstract-index": "1.0296577003182108"
+                "abstract-index": "1.02"
             },
             "color": "rgb(198,219,188)",
-            "value": 17.309648513793945
+            "value": 17.3
         },
         {
             "label": "παραινέω",
             "id": "47",
             "attributes": {
-                "abstract-index": "1.0112088356453726"
+                "abstract-index": "1.01"
             },
             "color": "rgb(157,194,186)",
-            "value": 15.385727882385254
+            "value": 15.3
         },
         {
             "label": "καταμαρτυρέω",
             "id": "21",
             "attributes": {
-                "abstract-index": "1.2554440635302444"
+                "abstract-index": "1.2"
             },
             "color": "rgb(242,184,140)",
-            "value": 23.086257934570312
+            "value": 23.08
         },
         {
             "label": "συννοέω",
             "id": "154",
             "attributes": {
-                "abstract-index": "1.1531662680627195"
+                "abstract-index": "1.1"
             },
             "color": "rgb(248,219,165)",
-            "value": 21.56031036376953
+            "value": 21.5
         },
         {
             "label": "παραβαίνω",
             "id": "70",
             "attributes": {
-                "abstract-index": "1.0177599599387979"
+                "abstract-index": "1.01"
             },
             "color": "rgb(175,205,187)",
-            "value": 16.239757537841797
+            "value": 16.2
         },
         {
             "label": "τιμωρέω",
             "id": "105",
             "attributes": {
-                "abstract-index": "1.0173853367823629"
+                "abstract-index": "1.01"
             },
             "color": "rgb(174,204,187)",
-            "value": 16.198007583618164
+            "value": 16.1
         },
         {
             "label": "παρακελεύομαι",
             "id": "131",
             "attributes": {
-                "abstract-index": "1.0265463873473226"
+                "abstract-index": "1.02"
             },
             "color": "rgb(193,216,188)",
-            "value": 17.06764030456543
+            "value": 17.06
         },
         {
             "label": "συκοφαντέω",
             "id": "40",
             "attributes": {
-                "abstract-index": "1.0470867745338863"
+                "abstract-index": "1.04"
             },
             "color": "rgb(220,233,189)",
-            "value": 18.383331298828125
+            "value": 18.3
         },
         {
             "label": "διαβολή",
             "id": "38",
             "attributes": {
-                "abstract-index": "1.013413380759362"
+                "abstract-index": "1.01"
             },
             "color": "rgb(164,198,187)",
-            "value": 15.707216262817383
+            "value": 15.7
         },
         {
             "label": "πάρειμι/παρών",
             "id": "123",
             "attributes": {
-                "abstract-index": "1.0314643559656271"
+                "abstract-index": "1.03"
             },
             "color": "rgb(201,221,188)",
-            "value": 17.441219329833984
+            "value": 17.4
         },
         {
             "label": "παρεῖδον",
             "id": "136",
             "attributes": {
-                "abstract-index": "1.0642914278650832"
+                "abstract-index": "1.06"
             },
             "color": "rgb(237,243,190)",
-            "value": 19.164142608642578
+            "value": 19.1
         },
         {
             "label": "ἐπιστέλλω",
             "id": "54",
             "attributes": {
-                "abstract-index": "1.02029764617846"
+                "abstract-index": "1.02"
             },
             "color": "rgb(181,208,187)",
-            "value": 16.506229400634766
+            "value": 16.5
         },
         {
             "label": "προφανής",
             "id": "83",
             "attributes": {
-                "abstract-index": "1.02093692323325"
+                "abstract-index": "1.02"
             },
             "color": "rgb(182,209,187)",
-            "value": 16.569318771362305
+            "value": 16.5
         },
         {
             "label": "μάρτυς",
             "id": "16",
             "attributes": {
-                "abstract-index": "1.0117040325718298"
+                "abstract-index": "1.01"
             },
             "color": "rgb(159,195,186)",
-            "value": 15.461788177490234
+            "value": 15.4
         },
         {
             "label": "ἀπεχθάνομαι",
             "id": "90",
             "attributes": {
-                "abstract-index": "1.2339691423401844"
+                "abstract-index": "1.2"
             },
             "color": "rgb(243,190,145)",
-            "value": 22.820507049560547
+            "value": 22.8
         },
         {
             "label": "εὐνοέω",
             "id": "88",
             "attributes": {
-                "abstract-index": "1.0999684619205101"
+                "abstract-index": "1.09"
             },
             "color": "rgb(253,247,185)",
-            "value": 20.345428466796875
+            "value": 20.3
         },
         {
             "label": "ἐρέσσω/ἀρέσκω",
             "id": "58",
             "attributes": {
-                "abstract-index": "1.172374913958972"
+                "abstract-index": "1.1"
             },
             "color": "rgb(247,211,159)",
-            "value": 21.907268524169922
+            "value": 21.9
         },
         {
             "label": "διαμαρτάνω",
             "id": "63",
             "attributes": {
-                "abstract-index": "1.0106025062241322"
+                "abstract-index": "1.01"
             },
             "color": "rgb(155,192,186)",
-            "value": 15.289125442504883
+            "value": 15.2
         },
         {
             "label": "συνεισάγω",
             "id": "152",
             "attributes": {
-                "abstract-index": "1.5158122528505196"
+                "abstract-index": "1.5"
             },
             "color": "rgb(234,134,105)",
-            "value": 25.220638275146484
+            "value": 25.2
         },
         {
             "label": "ἀποτυγχάνω",
             "id": "144",
             "attributes": {
-                "abstract-index": "1.0228545588915545"
+                "abstract-index": "1.02"
             },
             "color": "rgb(186,212,188)",
-            "value": 16.750118255615234
+            "value": 16.7
         },
         {
             "label": "παραλογίζομαι",
             "id": "107",
             "attributes": {
-                "abstract-index": "1.135219974361823"
+                "abstract-index": "1.1"
             },
             "color": "rgb(250,227,171)",
-            "value": 21.198923110961914
+            "value": 21.1
         },
         {
             "label": "δυσωπέω",
             "id": "20",
             "attributes": {
-                "abstract-index": "1.0406302206381859"
+                "abstract-index": "1.04"
             },
             "color": "rgb(213,228,189)",
-            "value": 18.029577255249023
+            "value": 18.02
         },
         {
             "label": "οἴομαι",
             "id": "122",
             "attributes": {
-                "abstract-index": "1.0011746056074107"
+                "abstract-index": "1.01"
             },
             "color": "rgb(95,155,184)",
-            "value": 12.456254005432129
+            "value": 12.4
         },
         {
             "label": "ἐπίταγμα",
             "id": "164",
             "attributes": {
-                "abstract-index": "1.0620895735797138"
+                "abstract-index": "1.06"
             },
             "color": "rgb(235,242,190)",
-            "value": 19.074535369873047
+            "value": 19.07
         },
         {
             "label": "βασανίζω",
             "id": "13",
             "attributes": {
-                "abstract-index": "1.0207555107939197"
+                "abstract-index": "1.02"
             },
             "color": "rgb(182,209,187)",
-            "value": 16.55156707763672
+            "value": 16.5
         },
         {
             "label": "συγγιγνώσκω",
             "id": "15",
             "attributes": {
-                "abstract-index": "1.042253301536435"
+                "abstract-index": "1.04"
             },
             "color": "rgb(215,230,189)",
-            "value": 18.122516632080078
+            "value": 18.1
         },
         {
             "label": "παρατυγχάνω",
             "id": "125",
             "attributes": {
-                "abstract-index": "1.0598693332554165"
+                "abstract-index": "1.05"
             },
             "color": "rgb(233,241,190)",
-            "value": 18.98149871826172
+            "value": 18.9
         },
         {
             "label": "ἐμπιστεύω",
             "id": "108",
             "attributes": {
-                "abstract-index": "1.4722669690787793"
+                "abstract-index": "1.4"
             },
             "color": "rgb(235,141,110)",
-            "value": 24.955333709716797
+            "value": 24.9
         },
         {
             "label": "ὑπέρ-εἶδον",
             "id": "28",
             "attributes": {
-                "abstract-index": "1.08161787665994"
+                "abstract-index": "1.08"
             },
             "color": "rgb(250,252,190)",
-            "value": 19.792329788208008
+            "value": 19.7
         },
         {
             "label": "προίημι",
             "id": "111",
             "attributes": {
-                "abstract-index": "1.019648142594213"
+                "abstract-index": "1.01"
             },
             "color": "rgb(179,208,187)",
-            "value": 16.440555572509766
+            "value": 16.4
         },
         {
             "label": "τεχνάζω",
             "id": "94",
             "attributes": {
-                "abstract-index": "1.252391274692725"
+                "abstract-index": "1.2"
             },
             "color": "rgb(242,184,141)",
-            "value": 23.049808502197266
+            "value": 23.04
         },
         {
             "label": "καρτερέω",
             "id": "31",
             "attributes": {
-                "abstract-index": "1.0683779969749234"
+                "abstract-index": "1.06"
             },
             "color": "rgb(240,246,190)",
-            "value": 19.32394790649414
+            "value": 19.3
         },
         {
             "label": "συνομολογέω",
             "id": "153",
             "attributes": {
-                "abstract-index": "1.310932091983158"
+                "abstract-index": "1.3"
             },
             "color": "rgb(240,170,130)",
-            "value": 23.684215545654297
+            "value": 23.6
         },
         {
             "label": "ἀπελπίζω",
             "id": "99",
             "attributes": {
-                "abstract-index": "1.2796750613919445"
+                "abstract-index": "1.2"
             },
             "color": "rgb(241,177,136)",
-            "value": 23.361530303955078
+            "value": 23.3
         },
         {
             "label": "καταψεύδομαι",
             "id": "5",
             "attributes": {
-                "abstract-index": "1.0393446068002303"
+                "abstract-index": "1.03"
             },
             "color": "rgb(211,227,189)",
-            "value": 17.953842163085938
+            "value": 17.9
         },
         {
             "label": "ὑποτάσσω",
             "id": "167",
             "attributes": {
-                "abstract-index": "1.0052427782139226"
+                "abstract-index": "1.05"
             },
             "color": "rgb(132,178,185)",
-            "value": 14.18212890625
+            "value": 14.1
         },
         {
             "label": "ὁμολογέω",
             "id": "155",
             "attributes": {
-                "abstract-index": "1.001594366466375"
+                "abstract-index": "1.01"
             },
             "color": "rgb(101,159,184)",
-            "value": 12.74826431274414
+            "value": 12.7
         },
         {
             "label": "καταμέμφομαι",
             "id": "4",
             "attributes": {
-                "abstract-index": "1.1598640160201903"
+                "abstract-index": "1.1"
             },
             "color": "rgb(248,216,163)",
-            "value": 21.685531616210938
+            "value": 21.6
         },
         {
             "label": "ἀποφεύγω",
             "id": "18",
             "attributes": {
-                "abstract-index": "1.0612163460665012"
+                "abstract-index": "1.06"
             },
             "color": "rgb(234,242,190)",
-            "value": 19.03827667236328
+            "value": 19.03
         },
         {
             "label": "ἀπαρνέομαι",
             "id": "50",
             "attributes": {
-                "abstract-index": "1.3475136767511295"
+                "abstract-index": "1.3"
             },
             "color": "rgb(238,162,125)",
-            "value": 24.02342987060547
+            "value": 24.02
         },
         {
             "label": "δογματίζω",
             "id": "72",
             "attributes": {
-                "abstract-index": "1.0567693336132782"
+                "abstract-index": "1.05"
             },
             "color": "rgb(230,239,189)",
-            "value": 18.846752166748047
+            "value": 18.8
         },
         {
             "label": "φυσιολογέω",
             "id": "95",
             "attributes": {
-                "abstract-index": "1.4260729514508617"
+                "abstract-index": "1.4"
             },
             "color": "rgb(236,148,115)",
-            "value": 24.64380645751953
+            "value": 24.6
         },
         {
             "label": "παροράω",
             "id": "97",
             "attributes": {
-                "abstract-index": "1.0351660750333092"
+                "abstract-index": "1.03"
             },
             "color": "rgb(206,224,188)",
-            "value": 17.693296432495117
+            "value": 17.6
         },
         {
             "label": "ἀτυχέω",
             "id": "9",
             "attributes": {
-                "abstract-index": "1.0301725960900694"
+                "abstract-index": "1.03"
             },
             "color": "rgb(199,219,188)",
-            "value": 17.34777069091797
+            "value": 17.3
         },
         {
             "label": "μέμφομαι",
             "id": "6",
             "attributes": {
-                "abstract-index": "1.0095079223490848"
+                "abstract-index": "1.09"
             },
             "color": "rgb(151,190,186)",
-            "value": 15.103860855102539
+            "value": 15.1
         },
         {
             "label": "δοξάζω",
             "id": "80",
             "attributes": {
-                "abstract-index": "1.0049266685324472"
+                "abstract-index": "1.04"
             },
             "color": "rgb(130,177,185)",
-            "value": 14.094284057617188
+            "value": 14.09
         },
         {
             "label": "ἐπιτρίβω",
             "id": "96",
             "attributes": {
-                "abstract-index": "1.1895113293705604"
+                "abstract-index": "1.1"
             },
             "color": "rgb(246,204,155)",
-            "value": 22.188323974609375
+            "value": 22.1
         },
         {
             "label": "πιστόω/πιστεύω",
             "id": "48",
             "attributes": {
-                "abstract-index": "1.0227316372407884"
+                "abstract-index": "1.02"
             },
             "color": "rgb(186,211,188)",
-            "value": 16.7388858795166
+            "value": 16.7
         },
         {
             "label": "διαψεύδω",
             "id": "62",
             "attributes": {
-                "abstract-index": "1.0423545016709783"
+                "abstract-index": "1.04"
             },
             "color": "rgb(215,230,189)",
-            "value": 18.128215789794922
+            "value": 18.1
         },
         {
             "label": "ἐπιτρέπω",
             "id": "114",
             "attributes": {
-                "abstract-index": "1.0039079979426198"
+                "abstract-index": "1.03"
             },
             "color": "rgb(123,172,185)",
-            "value": 13.780405044555664
+            "value": 13.7
         },
         {
             "label": "μαρτυρέω/μαρτύρομαι",
             "id": "103",
             "attributes": {
-                "abstract-index": "1.00891521154871"
+                "abstract-index": "1.08"
             },
             "color": "rgb(149,188,186)",
-            "value": 14.996893882751465
+            "value": 14.9
         },
         {
             "label": "ἐφέζομαι/ἐφίημι/ἐπιέννυμι/πείθω",
             "id": "56",
             "attributes": {
-                "abstract-index": "2.0620630578172685"
+                "abstract-index": "2.06"
             },
             "color": "rgb(225,87,72)",
-            "value": 27.27461051940918
+            "value": 27.2
         }
     ],
     "links": [
@@ -1520,7 +1520,7 @@
             "id": "530978",
             "attributes": {},
             "color": "rgb(213,213,176)",
-            "value": 0.6736275553703308
+            "value": 0.6
         },
         {
             "source": "21",
@@ -1528,7 +1528,7 @@
             "id": "231644",
             "attributes": {},
             "color": "rgb(205,192,163)",
-            "value": 0.6667506694793701
+            "value": 0.6
         },
         {
             "source": "51",
@@ -1536,7 +1536,7 @@
             "id": "1179955",
             "attributes": {},
             "color": "rgb(245,203,154)",
-            "value": 0.7031790018081665
+            "value": 0.7
         },
         {
             "source": "166",
@@ -1544,7 +1544,7 @@
             "id": "1103513",
             "attributes": {},
             "color": "rgb(245,200,152)",
-            "value": 0.590721845626831
+            "value": 0.5
         },
         {
             "source": "125",
@@ -1552,7 +1552,7 @@
             "id": "467156",
             "attributes": {},
             "color": "rgb(189,213,188)",
-            "value": 0.574502170085907
+            "value": 0.5
         },
         {
             "source": "91",
@@ -1560,7 +1560,7 @@
             "id": "890739",
             "attributes": {},
             "color": "rgb(143,185,185)",
-            "value": 0.6250162124633789
+            "value": 0.6
         },
         {
             "source": "111",
@@ -1568,7 +1568,7 @@
             "id": "530985",
             "attributes": {},
             "color": "rgb(206,225,188)",
-            "value": 0.6164332032203674
+            "value": 0.6
         },
         {
             "source": "65",
@@ -1576,7 +1576,7 @@
             "id": "866033",
             "attributes": {},
             "color": "rgb(150,189,186)",
-            "value": 0.6697258353233337
+            "value": 0.6
         },
         {
             "source": "40",
@@ -1584,7 +1584,7 @@
             "id": "632209",
             "attributes": {},
             "color": "rgb(201,221,188)",
-            "value": 0.6826136708259583
+            "value": 0.6
         },
         {
             "source": "45",
@@ -1592,7 +1592,7 @@
             "id": "264138",
             "attributes": {},
             "color": "rgb(214,229,188)",
-            "value": 0.5752649307250977
+            "value": 0.5
         },
         {
             "source": "37",
@@ -1600,7 +1600,7 @@
             "id": "368178",
             "attributes": {},
             "color": "rgb(236,150,116)",
-            "value": 0.6743048429489136
+            "value": 0.6
         },
         {
             "source": "82",
@@ -1608,7 +1608,7 @@
             "id": "111503",
             "attributes": {},
             "color": "rgb(234,225,176)",
-            "value": 0.6135557889938354
+            "value": 0.6
         },
         {
             "source": "35",
@@ -1616,7 +1616,7 @@
             "id": "429273",
             "attributes": {},
             "color": "rgb(126,174,185)",
-            "value": 0.5784862041473389
+            "value": 0.5
         },
         {
             "source": "21",
@@ -1624,7 +1624,7 @@
             "id": "231645",
             "attributes": {},
             "color": "rgb(212,196,163)",
-            "value": 0.6717084050178528
+            "value": 0.6
         },
         {
             "source": "157",
@@ -1632,7 +1632,7 @@
             "id": "708481",
             "attributes": {},
             "color": "rgb(90,152,183)",
-            "value": 0.6805998682975769
+            "value": 0.6
         },
         {
             "source": "131",
@@ -1640,7 +1640,7 @@
             "id": "462215",
             "attributes": {},
             "color": "rgb(175,205,187)",
-            "value": 0.7280703783035278
+            "value": 0.7
         },
         {
             "source": "14",
@@ -1648,7 +1648,7 @@
             "id": "413666",
             "attributes": {},
             "color": "rgb(228,227,180)",
-            "value": 0.7581503391265869
+            "value": 0.7
         },
         {
             "source": "113",
@@ -1656,7 +1656,7 @@
             "id": "497159",
             "attributes": {},
             "color": "rgb(212,228,188)",
-            "value": 0.6297289133071899
+            "value": 0.6
         },
         {
             "source": "68",
@@ -1664,7 +1664,7 @@
             "id": "104954",
             "attributes": {},
             "color": "rgb(169,201,187)",
-            "value": 0.6532984972000122
+            "value": 0.6
         },
         {
             "source": "111",
@@ -1672,7 +1672,7 @@
             "id": "530975",
             "attributes": {},
             "color": "rgb(213,210,174)",
-            "value": 0.610222339630127
+            "value": 0.6
         },
         {
             "source": "166",
@@ -1680,7 +1680,7 @@
             "id": "1103522",
             "attributes": {},
             "color": "rgb(242,182,139)",
-            "value": 0.5321460962295532
+            "value": 0.5
         },
         {
             "source": "86",
@@ -1688,7 +1688,7 @@
             "id": "640162",
             "attributes": {},
             "color": "rgb(223,234,189)",
-            "value": 0.643699049949646
+            "value": 0.6
         },
         {
             "source": "119",
@@ -1696,7 +1696,7 @@
             "id": "474694",
             "attributes": {},
             "color": "rgb(153,191,186)",
-            "value": 0.6802324652671814
+            "value": 0.6
         },
         {
             "source": "141",
@@ -1704,7 +1704,7 @@
             "id": "475741",
             "attributes": {},
             "color": "rgb(193,216,188)",
-            "value": 0.5999455451965332
+            "value": 0.5
         },
         {
             "source": "136",
@@ -1712,7 +1712,7 @@
             "id": "469815",
             "attributes": {},
             "color": "rgb(242,228,175)",
-            "value": 0.6336580514907837
+            "value": 0.6
         },
         {
             "source": "89",
@@ -1720,7 +1720,7 @@
             "id": "475604",
             "attributes": {},
             "color": "rgb(212,228,188)",
-            "value": 0.6855051517486572
+            "value": 0.6
         },
         {
             "source": "153",
@@ -1728,7 +1728,7 @@
             "id": "648017",
             "attributes": {},
             "color": "rgb(239,169,129)",
-            "value": 0.5931665301322937
+            "value": 0.5
         },
         {
             "source": "144",
@@ -1736,7 +1736,7 @@
             "id": "880081",
             "attributes": {},
             "color": "rgb(200,221,188)",
-            "value": 0.629404604434967
+            "value": 0.6
         },
         {
             "source": "36",
@@ -1744,7 +1744,7 @@
             "id": "73732",
             "attributes": {},
             "color": "rgb(215,213,175)",
-            "value": 0.594277024269104
+            "value": 0.5
         },
         {
             "source": "23",
@@ -1752,7 +1752,7 @@
             "id": "741642",
             "attributes": {},
             "color": "rgb(193,216,188)",
-            "value": 0.850846141576767
+            "value": 0.8
         },
         {
             "source": "127",
@@ -1760,7 +1760,7 @@
             "id": "856292",
             "attributes": {},
             "color": "rgb(148,188,186)",
-            "value": 0.6625637412071228
+            "value": 0.6
         },
         {
             "source": "109",
@@ -1768,7 +1768,7 @@
             "id": "239702",
             "attributes": {},
             "color": "rgb(243,189,144)",
-            "value": 0.6916526556015015
+            "value": 0.6
         },
         {
             "source": "55",
@@ -1776,7 +1776,7 @@
             "id": "479503",
             "attributes": {},
             "color": "rgb(241,230,177)",
-            "value": 0.7224082350730896
+            "value": 0.7
         },
         {
             "source": "152",
@@ -1784,7 +1784,7 @@
             "id": "643706",
             "attributes": {},
             "color": "rgb(237,152,117)",
-            "value": 0.5275576114654541
+            "value": 0.5
         },
         {
             "source": "161",
@@ -1792,7 +1792,7 @@
             "id": "720381",
             "attributes": {},
             "color": "rgb(204,222,188)",
-            "value": 0.5932985544204712
+            "value": 0.5
         },
         {
             "source": "19",
@@ -1800,7 +1800,7 @@
             "id": "34873",
             "attributes": {},
             "color": "rgb(211,227,188)",
-            "value": 0.6901133060455322
+            "value": 0.6
         },
         {
             "source": "134",
@@ -1808,7 +1808,7 @@
             "id": "1008405",
             "attributes": {},
             "color": "rgb(201,169,147)",
-            "value": 0.6138545274734497
+            "value": 0.6
         },
         {
             "source": "32",
@@ -1816,7 +1816,7 @@
             "id": "369287",
             "attributes": {},
             "color": "rgb(234,242,189)",
-            "value": 0.6886346936225891
+            "value": 0.6
         },
         {
             "source": "116",
@@ -1824,7 +1824,7 @@
             "id": "536165",
             "attributes": {},
             "color": "rgb(165,199,187)",
-            "value": 0.5424104332923889
+            "value": 0.5
         },
         {
             "source": "88",
@@ -1832,7 +1832,7 @@
             "id": "147214",
             "attributes": {},
             "color": "rgb(236,239,187)",
-            "value": 0.6294214725494385
+            "value": 0.6
         },
         {
             "source": "91",
@@ -1840,7 +1840,7 @@
             "id": "890734",
             "attributes": {},
             "color": "rgb(204,214,181)",
-            "value": 0.6357507705688477
+            "value": 0.6
         },
         {
             "source": "29",
@@ -1848,7 +1848,7 @@
             "id": "532746",
             "attributes": {},
             "color": "rgb(197,201,175)",
-            "value": 0.6217595338821411
+            "value": 0.6
         },
         {
             "source": "92",
@@ -1856,7 +1856,7 @@
             "id": "1033178",
             "attributes": {},
             "color": "rgb(243,235,180)",
-            "value": 0.6332873702049255
+            "value": 0.6
         },
         {
             "source": "62",
@@ -1864,7 +1864,7 @@
             "id": "103068",
             "attributes": {},
             "color": "rgb(179,207,187)",
-            "value": 0.6917641758918762
+            "value": 0.6
         },
         {
             "source": "34",
@@ -1872,7 +1872,7 @@
             "id": "459893",
             "attributes": {},
             "color": "rgb(212,213,177)",
-            "value": 0.805409848690033
+            "value": 0.8
         },
         {
             "source": "104",
@@ -1880,7 +1880,7 @@
             "id": "378278",
             "attributes": {},
             "color": "rgb(201,221,188)",
-            "value": 0.6679560542106628
+            "value": 0.6
         },
         {
             "source": "140",
@@ -1888,7 +1888,7 @@
             "id": "1169564",
             "attributes": {},
             "color": "rgb(172,203,187)",
-            "value": 0.6134027242660522
+            "value": 0.6
         },
         {
             "source": "138",
@@ -1896,7 +1896,7 @@
             "id": "546293",
             "attributes": {},
             "color": "rgb(189,213,187)",
-            "value": 0.6659172177314758
+            "value": 0.6
         },
         {
             "source": "3",
@@ -1904,7 +1904,7 @@
             "id": "92484",
             "attributes": {},
             "color": "rgb(178,207,187)",
-            "value": 0.6921263337135315
+            "value": 0.6
         },
         {
             "source": "155",
@@ -1912,7 +1912,7 @@
             "id": "1150645",
             "attributes": {},
             "color": "rgb(104,161,184)",
-            "value": 0.6367183923721313
+            "value": 0.6
         },
         {
             "source": "33",
@@ -1920,7 +1920,7 @@
             "id": "370727",
             "attributes": {},
             "color": "rgb(240,227,175)",
-            "value": 0.6266031265258789
+            "value": 0.6
         },
         {
             "source": "33",
@@ -1928,7 +1928,7 @@
             "id": "370722",
             "attributes": {},
             "color": "rgb(232,222,175)",
-            "value": 0.6938251852989197
+            "value": 0.6
         },
         {
             "source": "133",
@@ -1936,7 +1936,7 @@
             "id": "463610",
             "attributes": {},
             "color": "rgb(250,229,173)",
-            "value": 0.6616247892379761
+            "value": 0.6
         },
         {
             "source": "147",
@@ -1944,7 +1944,7 @@
             "id": "713334",
             "attributes": {},
             "color": "rgb(170,202,187)",
-            "value": 0.5662194490432739
+            "value": 0.5
         },
         {
             "source": "2",
@@ -1952,7 +1952,7 @@
             "id": "12744",
             "attributes": {},
             "color": "rgb(145,186,186)",
-            "value": 0.6554873287677765
+            "value": 0.6
         },
         {
             "source": "156",
@@ -1960,7 +1960,7 @@
             "id": "704581",
             "attributes": {},
             "color": "rgb(190,164,148)",
-            "value": 0.5670387744903564
+            "value": 0.5
         },
         {
             "source": "43",
@@ -1968,7 +1968,7 @@
             "id": "240598",
             "attributes": {},
             "color": "rgb(239,165,128)",
-            "value": 0.6259758472442627
+            "value": 0.6
         },
         {
             "source": "97",
@@ -1976,7 +1976,7 @@
             "id": "471443",
             "attributes": {},
             "color": "rgb(168,200,186)",
-            "value": 0.6488161087036133
+            "value": 0.6
         },
         {
             "source": "3",
@@ -1984,7 +1984,7 @@
             "id": "92481",
             "attributes": {},
             "color": "rgb(176,206,187)",
-            "value": 0.6460606455802917
+            "value": 0.6
         },
         {
             "source": "112",
@@ -1992,7 +1992,7 @@
             "id": "468414",
             "attributes": {},
             "color": "rgb(172,166,158)",
-            "value": 0.6104820966720581
+            "value": 0.6
         },
         {
             "source": "109",
@@ -2000,7 +2000,7 @@
             "id": "239701",
             "attributes": {},
             "color": "rgb(246,205,155)",
-            "value": 0.693453311920166
+            "value": 0.6
         },
         {
             "source": "107",
@@ -2008,7 +2008,7 @@
             "id": "463753",
             "attributes": {},
             "color": "rgb(216,218,179)",
-            "value": 0.6815314292907715
+            "value": 0.6
         },
         {
             "source": "113",
@@ -2016,7 +2016,7 @@
             "id": "497162",
             "attributes": {},
             "color": "rgb(230,211,167)",
-            "value": 0.6447921395301819
+            "value": 0.6
         },
         {
             "source": "109",
@@ -2024,7 +2024,7 @@
             "id": "239710",
             "attributes": {},
             "color": "rgb(241,178,136)",
-            "value": 0.6330329179763794
+            "value": 0.6
         },
         {
             "source": "155",
@@ -2032,7 +2032,7 @@
             "id": "1150652",
             "attributes": {},
             "color": "rgb(141,184,185)",
-            "value": 0.6302831172943115
+            "value": 0.6
         },
         {
             "source": "15",
@@ -2040,7 +2040,7 @@
             "id": "627760",
             "attributes": {},
             "color": "rgb(232,230,181)",
-            "value": 0.73638054728508
+            "value": 0.7
         },
         {
             "source": "71",
@@ -2048,7 +2048,7 @@
             "id": "863372",
             "attributes": {},
             "color": "rgb(209,226,188)",
-            "value": 0.6553435921669006
+            "value": 0.6
         },
         {
             "source": "162",
@@ -2056,7 +2056,7 @@
             "id": "1046232",
             "attributes": {},
             "color": "rgb(204,223,188)",
-            "value": 0.6047661304473877
+            "value": 0.6
         },
         {
             "source": "107",
@@ -2064,7 +2064,7 @@
             "id": "463754",
             "attributes": {},
             "color": "rgb(250,228,172)",
-            "value": 0.6810439825057983
+            "value": 0.6
         },
         {
             "source": "127",
@@ -2072,7 +2072,7 @@
             "id": "856291",
             "attributes": {},
             "color": "rgb(167,199,187)",
-            "value": 0.669675350189209
+            "value": 0.6
         },
         {
             "source": "92",
@@ -2080,7 +2080,7 @@
             "id": "1033182",
             "attributes": {},
             "color": "rgb(234,229,180)",
-            "value": 0.639087438583374
+            "value": 0.6
         },
         {
             "source": "88",
@@ -2088,7 +2088,7 @@
             "id": "147218",
             "attributes": {},
             "color": "rgb(205,220,185)",
-            "value": 0.624067485332489
+            "value": 0.6
         },
         {
             "source": "89",
@@ -2096,7 +2096,7 @@
             "id": "475601",
             "attributes": {},
             "color": "rgb(188,213,187)",
-            "value": 0.6881831884384155
+            "value": 0.6
         },
         {
             "source": "59",
@@ -2104,7 +2104,7 @@
             "id": "629689",
             "attributes": {},
             "color": "rgb(162,197,186)",
-            "value": 0.685957670211792
+            "value": 0.6
         },
         {
             "source": "57",
@@ -2112,7 +2112,7 @@
             "id": "209228",
             "attributes": {},
             "color": "rgb(198,219,188)",
-            "value": 0.6708581447601318
+            "value": 0.6
         },
         {
             "source": "57",
@@ -2120,7 +2120,7 @@
             "id": "209234",
             "attributes": {},
             "color": "rgb(234,242,189)",
-            "value": 0.7026639580726624
+            "value": 0.7
         },
         {
             "source": "122",
@@ -2128,7 +2128,7 @@
             "id": "428496",
             "attributes": {},
             "color": "rgb(90,152,183)",
-            "value": 0.7325830459594727
+            "value": 0.7
         },
         {
             "source": "84",
@@ -2136,7 +2136,7 @@
             "id": "1003536",
             "attributes": {},
             "color": "rgb(245,205,155)",
-            "value": 0.6523613929748535
+            "value": 0.6
         },
         {
             "source": "4",
@@ -2144,7 +2144,7 @@
             "id": "231538",
             "attributes": {},
             "color": "rgb(215,212,175)",
-            "value": 0.6577771902084351
+            "value": 0.6
         },
         {
             "source": "92",
@@ -2152,7 +2152,7 @@
             "id": "1033181",
             "attributes": {},
             "color": "rgb(212,215,179)",
-            "value": 0.6307231783866882
+            "value": 0.6
         },
         {
             "source": "74",
@@ -2160,7 +2160,7 @@
             "id": "605944",
             "attributes": {},
             "color": "rgb(236,243,189)",
-            "value": 0.6767939329147339
+            "value": 0.6
         },
         {
             "source": "125",
@@ -2168,7 +2168,7 @@
             "id": "467155",
             "attributes": {},
             "color": "rgb(243,244,187)",
-            "value": 0.5836678743362427
+            "value": 0.5
         },
         {
             "source": "69",
@@ -2176,7 +2176,7 @@
             "id": "142177",
             "attributes": {},
             "color": "rgb(200,220,188)",
-            "value": 0.6078407764434814
+            "value": 0.6
         },
         {
             "source": "90",
@@ -2184,7 +2184,7 @@
             "id": "865222",
             "attributes": {},
             "color": "rgb(224,207,166)",
-            "value": 0.6465249061584473
+            "value": 0.6
         },
         {
             "source": "33",
@@ -2192,7 +2192,7 @@
             "id": "370717",
             "attributes": {},
             "color": "rgb(230,220,175)",
-            "value": 0.63116455078125
+            "value": 0.6
         },
         {
             "source": "132",
@@ -2200,7 +2200,7 @@
             "id": "463373",
             "attributes": {},
             "color": "rgb(225,236,189)",
-            "value": 0.5608917474746704
+            "value": 0.5
         },
         {
             "source": "88",
@@ -2208,7 +2208,7 @@
             "id": "147215",
             "attributes": {},
             "color": "rgb(248,218,165)",
-            "value": 0.6679509878158569
+            "value": 0.6
         },
         {
             "source": "111",
@@ -2216,7 +2216,7 @@
             "id": "530988",
             "attributes": {},
             "color": "rgb(172,203,187)",
-            "value": 0.6624083518981934
+            "value": 0.6
         },
         {
             "source": "155",
@@ -2224,7 +2224,7 @@
             "id": "1150641",
             "attributes": {},
             "color": "rgb(158,194,186)",
-            "value": 0.6149038076400757
+            "value": 0.6
         },
         {
             "source": "112",
@@ -2232,7 +2232,7 @@
             "id": "468416",
             "attributes": {},
             "color": "rgb(232,124,98)",
-            "value": 0.594238817691803
+            "value": 0.5
         },
         {
             "source": "74",
@@ -2240,7 +2240,7 @@
             "id": "605940",
             "attributes": {},
             "color": "rgb(230,239,189)",
-            "value": 0.6690096259117126
+            "value": 0.6
         },
         {
             "source": "41",
@@ -2248,7 +2248,7 @@
             "id": "871835",
             "attributes": {},
             "color": "rgb(159,194,186)",
-            "value": 0.712409257888794
+            "value": 0.7
         },
         {
             "source": "161",
@@ -2256,7 +2256,7 @@
             "id": "720375",
             "attributes": {},
             "color": "rgb(210,227,188)",
-            "value": 0.5763276815414429
+            "value": 0.5
         },
         {
             "source": "21",
@@ -2264,7 +2264,7 @@
             "id": "231643",
             "attributes": {},
             "color": "rgb(193,185,163)",
-            "value": 0.6960617303848267
+            "value": 0.6
         },
         {
             "source": "59",
@@ -2272,7 +2272,7 @@
             "id": "629686",
             "attributes": {},
             "color": "rgb(215,216,178)",
-            "value": 0.7347452640533447
+            "value": 0.7
         },
         {
             "source": "116",
@@ -2280,7 +2280,7 @@
             "id": "536154",
             "attributes": {},
             "color": "rgb(180,208,187)",
-            "value": 0.578040599822998
+            "value": 0.5
         },
         {
             "source": "119",
@@ -2288,7 +2288,7 @@
             "id": "474695",
             "attributes": {},
             "color": "rgb(130,177,185)",
-            "value": 0.6532654762268066
+            "value": 0.6
         },
         {
             "source": "2",
@@ -2296,7 +2296,7 @@
             "id": "12749",
             "attributes": {},
             "color": "rgb(162,196,186)",
-            "value": 0.6808241605758667
+            "value": 0.6
         },
         {
             "source": "33",
@@ -2304,7 +2304,7 @@
             "id": "370723",
             "attributes": {},
             "color": "rgb(231,221,175)",
-            "value": 0.6770797371864319
+            "value": 0.6
         },
         {
             "source": "109",
@@ -2312,7 +2312,7 @@
             "id": "239711",
             "attributes": {},
             "color": "rgb(206,198,167)",
-            "value": 0.6486030220985413
+            "value": 0.6
         },
         {
             "source": "45",
@@ -2320,7 +2320,7 @@
             "id": "264142",
             "attributes": {},
             "color": "rgb(245,220,168)",
-            "value": 0.5697004795074463
+            "value": 0.5
         },
         {
             "source": "4",
@@ -2328,7 +2328,7 @@
             "id": "231534",
             "attributes": {},
             "color": "rgb(199,203,174)",
-            "value": 0.6482219696044922
+            "value": 0.6
         },
         {
             "source": "89",
@@ -2336,7 +2336,7 @@
             "id": "475603",
             "attributes": {},
             "color": "rgb(182,209,187)",
-            "value": 0.712985098361969
+            "value": 0.7
         },
         {
             "source": "161",
@@ -2344,7 +2344,7 @@
             "id": "720380",
             "attributes": {},
             "color": "rgb(206,224,188)",
-            "value": 0.6309605240821838
+            "value": 0.6
         },
         {
             "source": "27",
@@ -2352,7 +2352,7 @@
             "id": "636691",
             "attributes": {},
             "color": "rgb(176,205,187)",
-            "value": 0.6707767248153687
+            "value": 0.6
         },
         {
             "source": "160",
@@ -2360,7 +2360,7 @@
             "id": "1025115",
             "attributes": {},
             "color": "rgb(176,205,187)",
-            "value": 0.7598640322685242
+            "value": 0.7
         },
         {
             "source": "104",
@@ -2368,7 +2368,7 @@
             "id": "378272",
             "attributes": {},
             "color": "rgb(225,236,189)",
-            "value": 0.688515841960907
+            "value": 0.6
         },
         {
             "source": "166",
@@ -2376,7 +2376,7 @@
             "id": "1103516",
             "attributes": {},
             "color": "rgb(231,122,97)",
-            "value": 0.5493711233139038
+            "value": 0.5
         },
         {
             "source": "15",
@@ -2384,7 +2384,7 @@
             "id": "627759",
             "attributes": {},
             "color": "rgb(207,224,188)",
-            "value": 0.714758574962616
+            "value": 0.7
         },
         {
             "source": "1",
@@ -2392,7 +2392,7 @@
             "id": "497213",
             "attributes": {},
             "color": "rgb(219,51,46)",
-            "value": 0.6723365783691406
+            "value": 0.6
         },
         {
             "source": "24",
@@ -2400,7 +2400,7 @@
             "id": "896195",
             "attributes": {},
             "color": "rgb(170,201,187)",
-            "value": 0.6796731948852539
+            "value": 0.6
         },
         {
             "source": "19",
@@ -2408,7 +2408,7 @@
             "id": "34866",
             "attributes": {},
             "color": "rgb(208,225,188)",
-            "value": 0.6693764925003052
+            "value": 0.6
         },
         {
             "source": "25",
@@ -2416,7 +2416,7 @@
             "id": "1023454",
             "attributes": {},
             "color": "rgb(216,219,180)",
-            "value": 0.6860684156417847
+            "value": 0.6
         },
         {
             "source": "56",
@@ -2424,7 +2424,7 @@
             "id": "1055036",
             "attributes": {},
             "color": "rgb(226,95,77)",
-            "value": 0.6069905757904053
+            "value": 0.6
         },
         {
             "source": "75",
@@ -2432,7 +2432,7 @@
             "id": "863754",
             "attributes": {},
             "color": "rgb(208,176,149)",
-            "value": 0.6249462366104126
+            "value": 0.6
         },
         {
             "source": "144",
@@ -2440,7 +2440,7 @@
             "id": "880083",
             "attributes": {},
             "color": "rgb(210,227,189)",
-            "value": 0.6781238913536072
+            "value": 0.6
         },
         {
             "source": "59",
@@ -2448,7 +2448,7 @@
             "id": "629685",
             "attributes": {},
             "color": "rgb(183,210,187)",
-            "value": 0.7026538848876953
+            "value": 0.7
         },
         {
             "source": "22",
@@ -2456,7 +2456,7 @@
             "id": "234205",
             "attributes": {},
             "color": "rgb(203,222,188)",
-            "value": 0.6496263742446899
+            "value": 0.6
         },
         {
             "source": "57",
@@ -2464,7 +2464,7 @@
             "id": "209230",
             "attributes": {},
             "color": "rgb(251,235,176)",
-            "value": 0.7086852192878723
+            "value": 0.7
         },
         {
             "source": "151",
@@ -2472,7 +2472,7 @@
             "id": "631394",
             "attributes": {},
             "color": "rgb(110,164,184)",
-            "value": 0.648982584476471
+            "value": 0.6
         },
         {
             "source": "7",
@@ -2480,7 +2480,7 @@
             "id": "1004740",
             "attributes": {},
             "color": "rgb(172,202,187)",
-            "value": 0.7028682231903076
+            "value": 0.7
         },
         {
             "source": "45",
@@ -2488,7 +2488,7 @@
             "id": "264131",
             "attributes": {},
             "color": "rgb(226,237,189)",
-            "value": 0.5595411658287048
+            "value": 0.5
         },
         {
             "source": "141",
@@ -2496,7 +2496,7 @@
             "id": "475731",
             "attributes": {},
             "color": "rgb(211,227,188)",
-            "value": 0.5933068990707397
+            "value": 0.5
         },
         {
             "source": "154",
@@ -2504,7 +2504,7 @@
             "id": "647463",
             "attributes": {},
             "color": "rgb(215,214,176)",
-            "value": 0.5869256258010864
+            "value": 0.5
         },
         {
             "source": "16",
@@ -2512,7 +2512,7 @@
             "id": "344026",
             "attributes": {},
             "color": "rgb(155,192,186)",
-            "value": 0.6414865255355835
+            "value": 0.6
         },
         {
             "source": "87",
@@ -2520,7 +2520,7 @@
             "id": "959989",
             "attributes": {},
             "color": "rgb(206,208,176)",
-            "value": 0.6676610112190247
+            "value": 0.6
         },
         {
             "source": "92",
@@ -2528,7 +2528,7 @@
             "id": "1033174",
             "attributes": {},
             "color": "rgb(227,225,179)",
-            "value": 0.6254960298538208
+            "value": 0.6
         },
         {
             "source": "45",
@@ -2536,7 +2536,7 @@
             "id": "264125",
             "attributes": {},
             "color": "rgb(243,211,161)",
-            "value": 0.5770134925842285
+            "value": 0.5
         },
         {
             "source": "155",
@@ -2544,7 +2544,7 @@
             "id": "1150642",
             "attributes": {},
             "color": "rgb(126,174,185)",
-            "value": 0.6464909911155701
+            "value": 0.6
         },
         {
             "source": "45",
@@ -2552,7 +2552,7 @@
             "id": "264126",
             "attributes": {},
             "color": "rgb(232,241,189)",
-            "value": 0.5607684850692749
+            "value": 0.5
         },
         {
             "source": "83",
@@ -2560,7 +2560,7 @@
             "id": "550308",
             "attributes": {},
             "color": "rgb(153,191,186)",
-            "value": 0.6179260015487671
+            "value": 0.6
         },
         {
             "source": "43",
@@ -2568,7 +2568,7 @@
             "id": "240591",
             "attributes": {},
             "color": "rgb(237,193,150)",
-            "value": 0.6500891447067261
+            "value": 0.6
         },
         {
             "source": "130",
@@ -2576,7 +2576,7 @@
             "id": "859190",
             "attributes": {},
             "color": "rgb(194,216,188)",
-            "value": 0.6052361130714417
+            "value": 0.6
         },
         {
             "source": "119",
@@ -2584,7 +2584,7 @@
             "id": "474693",
             "attributes": {},
             "color": "rgb(125,173,185)",
-            "value": 0.666816234588623
+            "value": 0.6
         },
         {
             "source": "59",
@@ -2592,7 +2592,7 @@
             "id": "629688",
             "attributes": {},
             "color": "rgb(171,202,187)",
-            "value": 0.7389029264450073
+            "value": 0.7
         },
         {
             "source": "127",
@@ -2600,7 +2600,7 @@
             "id": "856290",
             "attributes": {},
             "color": "rgb(173,203,187)",
-            "value": 0.7050961852073669
+            "value": 0.7
         },
         {
             "source": "84",
@@ -2608,7 +2608,7 @@
             "id": "1003537",
             "attributes": {},
             "color": "rgb(225,210,169)",
-            "value": 0.6523219347000122
+            "value": 0.6
         },
         {
             "source": "69",
@@ -2616,7 +2616,7 @@
             "id": "142178",
             "attributes": {},
             "color": "rgb(190,214,188)",
-            "value": 0.57970130443573
+            "value": 0.5
         },
         {
             "source": "57",
@@ -2624,7 +2624,7 @@
             "id": "209239",
             "attributes": {},
             "color": "rgb(252,242,181)",
-            "value": 0.6765477657318115
+            "value": 0.6
         },
         {
             "source": "45",
@@ -2632,7 +2632,7 @@
             "id": "264135",
             "attributes": {},
             "color": "rgb(241,195,150)",
-            "value": 0.5790544748306274
+            "value": 0.5
         },
         {
             "source": "3",
@@ -2640,7 +2640,7 @@
             "id": "92483",
             "attributes": {},
             "color": "rgb(199,209,179)",
-            "value": 0.6868700385093689
+            "value": 0.6
         },
         {
             "source": "112",
@@ -2648,7 +2648,7 @@
             "id": "468421",
             "attributes": {},
             "color": "rgb(241,181,139)",
-            "value": 0.6033525466918945
+            "value": 0.6
         },
         {
             "source": "119",
@@ -2656,7 +2656,7 @@
             "id": "474691",
             "attributes": {},
             "color": "rgb(101,159,184)",
-            "value": 0.6677178144454956
+            "value": 0.6
         },
         {
             "source": "32",
@@ -2664,7 +2664,7 @@
             "id": "369286",
             "attributes": {},
             "color": "rgb(232,241,189)",
-            "value": 0.6631925106048584
+            "value": 0.6
         },
         {
             "source": "155",
@@ -2672,7 +2672,7 @@
             "id": "1150643",
             "attributes": {},
             "color": "rgb(99,158,184)",
-            "value": 0.6430516839027405
+            "value": 0.6
         },
         {
             "source": "25",
@@ -2680,7 +2680,7 @@
             "id": "1023452",
             "attributes": {},
             "color": "rgb(234,231,181)",
-            "value": 0.6942551136016846
+            "value": 0.6
         },
         {
             "source": "78",
@@ -2688,7 +2688,7 @@
             "id": "428497",
             "attributes": {},
             "color": "rgb(116,168,185)",
-            "value": 0.7519745826721191
+            "value": 0.7
         },
         {
             "source": "43",
@@ -2696,7 +2696,7 @@
             "id": "240593",
             "attributes": {},
             "color": "rgb(241,176,135)",
-            "value": 0.6338936686515808
+            "value": 0.6
         },
         {
             "source": "136",
@@ -2704,7 +2704,7 @@
             "id": "469822",
             "attributes": {},
             "color": "rgb(243,247,190)",
-            "value": 0.6929458379745483
+            "value": 0.6
         },
         {
             "source": "155",
@@ -2712,7 +2712,7 @@
             "id": "1150648",
             "attributes": {},
             "color": "rgb(131,177,185)",
-            "value": 0.6272330284118652
+            "value": 0.6
         },
         {
             "source": "46",
@@ -2720,7 +2720,7 @@
             "id": "96577",
             "attributes": {},
             "color": "rgb(215,204,169)",
-            "value": 0.6267101764678955
+            "value": 0.6
         },
         {
             "source": "152",
@@ -2728,7 +2728,7 @@
             "id": "643690",
             "attributes": {},
             "color": "rgb(238,159,122)",
-            "value": 0.5257785320281982
+            "value": 0.5
         },
         {
             "source": "128",
@@ -2736,7 +2736,7 @@
             "id": "459504",
             "attributes": {},
             "color": "rgb(220,214,174)",
-            "value": 0.5338855981826782
+            "value": 0.5
         },
         {
             "source": "132",
@@ -2744,7 +2744,7 @@
             "id": "463371",
             "attributes": {},
             "color": "rgb(239,194,150)",
-            "value": 0.5636117458343506
+            "value": 0.5
         },
         {
             "source": "157",
@@ -2752,7 +2752,7 @@
             "id": "708480",
             "attributes": {},
             "color": "rgb(101,159,184)",
-            "value": 0.7385648488998413
+            "value": 0.7
         },
         {
             "source": "112",
@@ -2760,7 +2760,7 @@
             "id": "468412",
             "attributes": {},
             "color": "rgb(198,183,159)",
-            "value": 0.6588186025619507
+            "value": 0.6
         },
         {
             "source": "116",
@@ -2768,7 +2768,7 @@
             "id": "536152",
             "attributes": {},
             "color": "rgb(150,189,186)",
-            "value": 0.5414398908615112
+            "value": 0.5
         },
         {
             "source": "35",
@@ -2776,7 +2776,7 @@
             "id": "429268",
             "attributes": {},
             "color": "rgb(99,157,184)",
-            "value": 0.6108784675598145
+            "value": 0.6
         },
         {
             "source": "32",
@@ -2784,7 +2784,7 @@
             "id": "369284",
             "attributes": {},
             "color": "rgb(242,196,150)",
-            "value": 0.6889263391494751
+            "value": 0.6
         },
         {
             "source": "123",
@@ -2792,7 +2792,7 @@
             "id": "435974",
             "attributes": {},
             "color": "rgb(191,214,187)",
-            "value": 0.5873595476150513
+            "value": 0.5
         },
         {
             "source": "42",
@@ -2800,7 +2800,7 @@
             "id": "959538",
             "attributes": {},
             "color": "rgb(186,211,187)",
-            "value": 0.7292217016220093
+            "value": 0.7
         },
         {
             "source": "59",
@@ -2808,7 +2808,7 @@
             "id": "629691",
             "attributes": {},
             "color": "rgb(169,201,186)",
-            "value": 0.6854548454284668
+            "value": 0.6
         },
         {
             "source": "149",
@@ -2816,7 +2816,7 @@
             "id": "817431",
             "attributes": {},
             "color": "rgb(166,199,187)",
-            "value": 0.6419093608856201
+            "value": 0.6
         },
         {
             "source": "136",
@@ -2824,7 +2824,7 @@
             "id": "469820",
             "attributes": {},
             "color": "rgb(243,236,181)",
-            "value": 0.6387929916381836
+            "value": 0.6
         },
         {
             "source": "142",
@@ -2832,7 +2832,7 @@
             "id": "545741",
             "attributes": {},
             "color": "rgb(233,135,106)",
-            "value": 0.6008798480033875
+            "value": 0.6
         },
         {
             "source": "46",
@@ -2840,7 +2840,7 @@
             "id": "96575",
             "attributes": {},
             "color": "rgb(201,195,168)",
-            "value": 0.6027602553367615
+            "value": 0.6
         },
         {
             "source": "158",
@@ -2848,7 +2848,7 @@
             "id": "715935",
             "attributes": {},
             "color": "rgb(105,161,184)",
-            "value": 0.6532024145126343
+            "value": 0.6
         },
         {
             "source": "167",
@@ -2856,7 +2856,7 @@
             "id": "1180925",
             "attributes": {},
             "color": "rgb(148,188,186)",
-            "value": 0.5690797567367554
+            "value": 0.5
         },
         {
             "source": "93",
@@ -2864,7 +2864,7 @@
             "id": "534866",
             "attributes": {},
             "color": "rgb(203,222,188)",
-            "value": 0.6458319425582886
+            "value": 0.6
         },
         {
             "source": "147",
@@ -2872,7 +2872,7 @@
             "id": "713338",
             "attributes": {},
             "color": "rgb(148,188,186)",
-            "value": 0.5671231150627136
+            "value": 0.5
         },
         {
             "source": "3",
@@ -2880,7 +2880,7 @@
             "id": "92482",
             "attributes": {},
             "color": "rgb(156,193,186)",
-            "value": 0.6393202543258667
+            "value": 0.6
         },
         {
             "source": "146",
@@ -2888,7 +2888,7 @@
             "id": "543523",
             "attributes": {},
             "color": "rgb(229,239,189)",
-            "value": 0.7008539438247681
+            "value": 0.7
         },
         {
             "source": "160",
@@ -2896,7 +2896,7 @@
             "id": "1025114",
             "attributes": {},
             "color": "rgb(159,195,186)",
-            "value": 0.7435758113861084
+            "value": 0.7
         },
         {
             "source": "64",
@@ -2904,7 +2904,7 @@
             "id": "764870",
             "attributes": {},
             "color": "rgb(144,185,186)",
-            "value": 0.7404658496379852
+            "value": 0.7
         },
         {
             "source": "147",
@@ -2912,7 +2912,7 @@
             "id": "713339",
             "attributes": {},
             "color": "rgb(137,181,185)",
-            "value": 0.6082297563552856
+            "value": 0.6
         },
         {
             "source": "7",
@@ -2920,7 +2920,7 @@
             "id": "1004739",
             "attributes": {},
             "color": "rgb(165,199,186)",
-            "value": 0.7039616107940674
+            "value": 0.7
         },
         {
             "source": "33",
@@ -2928,7 +2928,7 @@
             "id": "370725",
             "attributes": {},
             "color": "rgb(204,205,174)",
-            "value": 0.6405624151229858
+            "value": 0.6
         },
         {
             "source": "147",
@@ -2936,7 +2936,7 @@
             "id": "713340",
             "attributes": {},
             "color": "rgb(149,189,186)",
-            "value": 0.5607072114944458
+            "value": 0.5
         },
         {
             "source": "153",
@@ -2944,7 +2944,7 @@
             "id": "648016",
             "attributes": {},
             "color": "rgb(235,204,159)",
-            "value": 0.5831388831138611
+            "value": 0.5
         },
         {
             "source": "114",
@@ -2952,7 +2952,7 @@
             "id": "1039801",
             "attributes": {},
             "color": "rgb(164,198,186)",
-            "value": 0.6311456561088562
+            "value": 0.6
         },
         {
             "source": "88",
@@ -2960,7 +2960,7 @@
             "id": "147216",
             "attributes": {},
             "color": "rgb(205,220,185)",
-            "value": 0.6431287825107574
+            "value": 0.6
         },
         {
             "source": "50",
@@ -2968,7 +2968,7 @@
             "id": "862142",
             "attributes": {},
             "color": "rgb(236,202,157)",
-            "value": 0.6240023374557495
+            "value": 0.6
         },
         {
             "source": "89",
@@ -2976,7 +2976,7 @@
             "id": "475605",
             "attributes": {},
             "color": "rgb(211,227,188)",
-            "value": 0.6563412845134735
+            "value": 0.6
         },
         {
             "source": "102",
@@ -2984,7 +2984,7 @@
             "id": "715275",
             "attributes": {},
             "color": "rgb(222,193,156)",
-            "value": 0.7039374113082886
+            "value": 0.7
         },
         {
             "source": "97",
@@ -2992,7 +2992,7 @@
             "id": "471441",
             "attributes": {},
             "color": "rgb(183,209,187)",
-            "value": 0.6311657428741455
+            "value": 0.6
         },
         {
             "source": "65",
@@ -3000,7 +3000,7 @@
             "id": "866030",
             "attributes": {},
             "color": "rgb(165,198,187)",
-            "value": 0.7209839224815369
+            "value": 0.7
         },
         {
             "source": "102",
@@ -3008,7 +3008,7 @@
             "id": "715284",
             "attributes": {},
             "color": "rgb(244,196,149)",
-            "value": 0.7205190360546112
+            "value": 0.7
         },
         {
             "source": "89",
@@ -3016,7 +3016,7 @@
             "id": "475608",
             "attributes": {},
             "color": "rgb(180,208,187)",
-            "value": 0.6476876735687256
+            "value": 0.6
         },
         {
             "source": "80",
@@ -3024,7 +3024,7 @@
             "id": "111216",
             "attributes": {},
             "color": "rgb(141,183,185)",
-            "value": 0.6338306069374084
+            "value": 0.6
         },
         {
             "source": "73",
@@ -3032,7 +3032,7 @@
             "id": "175426",
             "attributes": {},
             "color": "rgb(237,158,122)",
-            "value": 0.6149258017539978
+            "value": 0.6
         },
         {
             "source": "86",
@@ -3040,7 +3040,7 @@
             "id": "640163",
             "attributes": {},
             "color": "rgb(216,230,188)",
-            "value": 0.7025582194328308
+            "value": 0.7
         },
         {
             "source": "19",
@@ -3048,7 +3048,7 @@
             "id": "34877",
             "attributes": {},
             "color": "rgb(227,226,180)",
-            "value": 0.7426385879516602
+            "value": 0.7
         },
         {
             "source": "93",
@@ -3056,7 +3056,7 @@
             "id": "534864",
             "attributes": {},
             "color": "rgb(224,184,149)",
-            "value": 0.6592044830322266
+            "value": 0.6
         },
         {
             "source": "89",
@@ -3064,7 +3064,7 @@
             "id": "475599",
             "attributes": {},
             "color": "rgb(227,237,189)",
-            "value": 0.6685855388641357
+            "value": 0.6
         },
         {
             "source": "155",
@@ -3072,7 +3072,7 @@
             "id": "1150651",
             "attributes": {},
             "color": "rgb(116,168,184)",
-            "value": 0.6133005619049072
+            "value": 0.6
         },
         {
             "source": "93",
@@ -3080,7 +3080,7 @@
             "id": "534865",
             "attributes": {},
             "color": "rgb(185,211,187)",
-            "value": 0.6360584497451782
+            "value": 0.6
         },
         {
             "source": "129",
@@ -3088,7 +3088,7 @@
             "id": "459216",
             "attributes": {},
             "color": "rgb(245,214,162)",
-            "value": 0.5436412692070007
+            "value": 0.5
         },
         {
             "source": "107",
@@ -3096,7 +3096,7 @@
             "id": "463752",
             "attributes": {},
             "color": "rgb(235,230,180)",
-            "value": 0.7200438976287842
+            "value": 0.7
         },
         {
             "source": "94",
@@ -3104,7 +3104,7 @@
             "id": "682351",
             "attributes": {},
             "color": "rgb(244,198,151)",
-            "value": 0.6055246591567993
+            "value": 0.6
         },
         {
             "source": "91",
@@ -3112,7 +3112,7 @@
             "id": "890733",
             "attributes": {},
             "color": "rgb(154,192,186)",
-            "value": 0.616126537322998
+            "value": 0.6
         },
         {
             "source": "90",
@@ -3120,7 +3120,7 @@
             "id": "865221",
             "attributes": {},
             "color": "rgb(239,216,167)",
-            "value": 0.6390424966812134
+            "value": 0.6
         },
         {
             "source": "19",
@@ -3128,7 +3128,7 @@
             "id": "34880",
             "attributes": {},
             "color": "rgb(186,211,187)",
-            "value": 0.7066934108734131
+            "value": 0.7
         },
         {
             "source": "134",
@@ -3136,7 +3136,7 @@
             "id": "1008410",
             "attributes": {},
             "color": "rgb(242,195,149)",
-            "value": 0.5976901650428772
+            "value": 0.5
         },
         {
             "source": "157",
@@ -3144,7 +3144,7 @@
             "id": "708479",
             "attributes": {},
             "color": "rgb(96,156,183)",
-            "value": 0.7101422548294067
+            "value": 0.7
         },
         {
             "source": "155",
@@ -3152,7 +3152,7 @@
             "id": "1150647",
             "attributes": {},
             "color": "rgb(135,180,185)",
-            "value": 0.6284782886505127
+            "value": 0.6
         },
         {
             "source": "33",
@@ -3160,7 +3160,7 @@
             "id": "370716",
             "attributes": {},
             "color": "rgb(220,215,174)",
-            "value": 0.6247289180755615
+            "value": 0.6
         },
         {
             "source": "4",
@@ -3168,7 +3168,7 @@
             "id": "231536",
             "attributes": {},
             "color": "rgb(233,224,176)",
-            "value": 0.6922224164009094
+            "value": 0.6
         },
         {
             "source": "164",
@@ -3176,7 +3176,7 @@
             "id": "1015824",
             "attributes": {},
             "color": "rgb(227,237,189)",
-            "value": 0.49838098883628845
+            "value": 0.4
         },
         {
             "source": "20",
@@ -3184,7 +3184,7 @@
             "id": "123917",
             "attributes": {},
             "color": "rgb(197,218,188)",
-            "value": 0.6964141726493835
+            "value": 0.6
         },
         {
             "source": "102",
@@ -3192,7 +3192,7 @@
             "id": "715277",
             "attributes": {},
             "color": "rgb(227,196,157)",
-            "value": 0.7032594680786133
+            "value": 0.7
         },
         {
             "source": "4",
@@ -3200,7 +3200,7 @@
             "id": "231533",
             "attributes": {},
             "color": "rgb(229,221,176)",
-            "value": 0.6723452210426331
+            "value": 0.6
         },
         {
             "source": "40",
@@ -3208,7 +3208,7 @@
             "id": "632207",
             "attributes": {},
             "color": "rgb(188,213,187)",
-            "value": 0.6990590691566467
+            "value": 0.6
         },
         {
             "source": "8",
@@ -3216,7 +3216,7 @@
             "id": "1179478",
             "attributes": {},
             "color": "rgb(125,174,185)",
-            "value": 0.7675458192825317
+            "value": 0.7
         },
         {
             "source": "138",
@@ -3224,7 +3224,7 @@
             "id": "546295",
             "attributes": {},
             "color": "rgb(164,198,186)",
-            "value": 0.6312270164489746
+            "value": 0.6
         },
         {
             "source": "49",
@@ -3232,7 +3232,7 @@
             "id": "646457",
             "attributes": {},
             "color": "rgb(203,208,177)",
-            "value": 0.7435421943664551
+            "value": 0.7
         },
         {
             "source": "118",
@@ -3240,7 +3240,7 @@
             "id": "1178475",
             "attributes": {},
             "color": "rgb(236,149,115)",
-            "value": 0.6166827082633972
+            "value": 0.6
         },
         {
             "source": "35",
@@ -3248,7 +3248,7 @@
             "id": "429272",
             "attributes": {},
             "color": "rgb(102,159,184)",
-            "value": 0.5508629083633423
+            "value": 0.5
         },
         {
             "source": "21",
@@ -3256,7 +3256,7 @@
             "id": "231642",
             "attributes": {},
             "color": "rgb(231,208,164)",
-            "value": 0.6671861410140991
+            "value": 0.6
         },
         {
             "source": "167",
@@ -3264,7 +3264,7 @@
             "id": "1180921",
             "attributes": {},
             "color": "rgb(175,205,187)",
-            "value": 0.541103720664978
+            "value": 0.5
         },
         {
             "source": "141",
@@ -3272,7 +3272,7 @@
             "id": "475743",
             "attributes": {},
             "color": "rgb(191,215,188)",
-            "value": 0.568427324295044
+            "value": 0.5
         },
         {
             "source": "135",
@@ -3280,7 +3280,7 @@
             "id": "1030199",
             "attributes": {},
             "color": "rgb(243,216,165)",
-            "value": 0.6167563199996948
+            "value": 0.6
         },
         {
             "source": "104",
@@ -3288,7 +3288,7 @@
             "id": "378275",
             "attributes": {},
             "color": "rgb(202,221,188)",
-            "value": 0.729412317276001
+            "value": 0.7
         },
         {
             "source": "39",
@@ -3296,7 +3296,7 @@
             "id": "103734",
             "attributes": {},
             "color": "rgb(169,201,186)",
-            "value": 0.7408341467380524
+            "value": 0.7
         },
         {
             "source": "132",
@@ -3304,7 +3304,7 @@
             "id": "463372",
             "attributes": {},
             "color": "rgb(245,230,175)",
-            "value": 0.5919011235237122
+            "value": 0.5
         },
         {
             "source": "50",
@@ -3312,7 +3312,7 @@
             "id": "862144",
             "attributes": {},
             "color": "rgb(230,118,94)",
-            "value": 0.6048842072486877
+            "value": 0.6
         },
         {
             "source": "74",
@@ -3320,7 +3320,7 @@
             "id": "605941",
             "attributes": {},
             "color": "rgb(232,240,189)",
-            "value": 0.6538666486740112
+            "value": 0.6
         },
         {
             "source": "56",
@@ -3328,7 +3328,7 @@
             "id": "1055037",
             "attributes": {},
             "color": "rgb(236,150,116)",
-            "value": 0.5934128761291504
+            "value": 0.5
         },
         {
             "source": "76",
@@ -3336,7 +3336,7 @@
             "id": "109866",
             "attributes": {},
             "color": "rgb(112,165,184)",
-            "value": 0.6481416821479797
+            "value": 0.6
         },
         {
             "source": "129",
@@ -3344,7 +3344,7 @@
             "id": "459208",
             "attributes": {},
             "color": "rgb(191,180,160)",
-            "value": 0.5698725581169128
+            "value": 0.5
         },
         {
             "source": "153",
@@ -3352,7 +3352,7 @@
             "id": "648019",
             "attributes": {},
             "color": "rgb(170,164,157)",
-            "value": 0.63315349817276
+            "value": 0.6
         },
         {
             "source": "131",
@@ -3360,7 +3360,7 @@
             "id": "462216",
             "attributes": {},
             "color": "rgb(169,201,187)",
-            "value": 0.6639517545700073
+            "value": 0.6
         },
         {
             "source": "141",
@@ -3368,7 +3368,7 @@
             "id": "475734",
             "attributes": {},
             "color": "rgb(228,238,189)",
-            "value": 0.6118740439414978
+            "value": 0.6
         },
         {
             "source": "166",
@@ -3376,7 +3376,7 @@
             "id": "1103509",
             "attributes": {},
             "color": "rgb(241,216,166)",
-            "value": 0.5889900922775269
+            "value": 0.5
         },
         {
             "source": "166",
@@ -3384,7 +3384,7 @@
             "id": "1103521",
             "attributes": {},
             "color": "rgb(223,204,165)",
-            "value": 0.5441519618034363
+            "value": 0.5
         },
         {
             "source": "99",
@@ -3392,7 +3392,7 @@
             "id": "864065",
             "attributes": {},
             "color": "rgb(244,197,150)",
-            "value": 0.6442548036575317
+            "value": 0.6
         },
         {
             "source": "3",
@@ -3400,7 +3400,7 @@
             "id": "92486",
             "attributes": {},
             "color": "rgb(180,208,187)",
-            "value": 0.6522319316864014
+            "value": 0.6
         },
         {
             "source": "76",
@@ -3408,7 +3408,7 @@
             "id": "109867",
             "attributes": {},
             "color": "rgb(94,154,183)",
-            "value": 0.6506481766700745
+            "value": 0.6
         },
         {
             "source": "39",
@@ -3416,7 +3416,7 @@
             "id": "103732",
             "attributes": {},
             "color": "rgb(210,226,188)",
-            "value": 0.7155429720878601
+            "value": 0.7
         },
         {
             "source": "155",
@@ -3424,7 +3424,7 @@
             "id": "1150646",
             "attributes": {},
             "color": "rgb(123,172,185)",
-            "value": 0.6448572874069214
+            "value": 0.6
         },
         {
             "source": "37",
@@ -3432,7 +3432,7 @@
             "id": "368164",
             "attributes": {},
             "color": "rgb(223,167,136)",
-            "value": 0.6312687695026398
+            "value": 0.6
         },
         {
             "source": "109",
@@ -3440,7 +3440,7 @@
             "id": "239714",
             "attributes": {},
             "color": "rgb(247,223,169)",
-            "value": 0.6357618570327759
+            "value": 0.6
         },
         {
             "source": "128",
@@ -3448,7 +3448,7 @@
             "id": "459509",
             "attributes": {},
             "color": "rgb(218,200,164)",
-            "value": 0.5834454298019409
+            "value": 0.5
         },
         {
             "source": "25",
@@ -3456,7 +3456,7 @@
             "id": "1023450",
             "attributes": {},
             "color": "rgb(212,217,180)",
-            "value": 0.6892208456993103
+            "value": 0.6
         },
         {
             "source": "101",
@@ -3464,7 +3464,7 @@
             "id": "209022",
             "attributes": {},
             "color": "rgb(217,223,183)",
-            "value": 0.5786547660827637
+            "value": 0.5
         },
         {
             "source": "90",
@@ -3472,7 +3472,7 @@
             "id": "865224",
             "attributes": {},
             "color": "rgb(242,218,167)",
-            "value": 0.6621938943862915
+            "value": 0.6
         },
         {
             "source": "47",
@@ -3480,7 +3480,7 @@
             "id": "461544",
             "attributes": {},
             "color": "rgb(151,190,186)",
-            "value": 0.8485461175441742
+            "value": 0.8
         },
         {
             "source": "21",
@@ -3488,7 +3488,7 @@
             "id": "231638",
             "attributes": {},
             "color": "rgb(226,205,164)",
-            "value": 0.7184295058250427
+            "value": 0.7
         },
         {
             "source": "161",
@@ -3496,7 +3496,7 @@
             "id": "720378",
             "attributes": {},
             "color": "rgb(206,224,188)",
-            "value": 0.6344334483146667
+            "value": 0.6
         },
         {
             "source": "165",
@@ -3504,7 +3504,7 @@
             "id": "1038853",
             "attributes": {},
             "color": "rgb(192,215,188)",
-            "value": 0.6632440686225891
+            "value": 0.6
         },
         {
             "source": "57",
@@ -3512,7 +3512,7 @@
             "id": "209227",
             "attributes": {},
             "color": "rgb(212,228,188)",
-            "value": 0.689083993434906
+            "value": 0.6
         },
         {
             "source": "24",
@@ -3520,7 +3520,7 @@
             "id": "896199",
             "attributes": {},
             "color": "rgb(209,215,180)",
-            "value": 0.6979431509971619
+            "value": 0.6
         },
         {
             "source": "137",
@@ -3528,7 +3528,7 @@
             "id": "1039652",
             "attributes": {},
             "color": "rgb(206,223,188)",
-            "value": 0.701252818107605
+            "value": 0.7
         },
         {
             "source": "20",
@@ -3536,7 +3536,7 @@
             "id": "123918",
             "attributes": {},
             "color": "rgb(231,229,181)",
-            "value": 0.7061657905578613
+            "value": 0.7
         },
         {
             "source": "3",
@@ -3544,7 +3544,7 @@
             "id": "92488",
             "attributes": {},
             "color": "rgb(155,192,186)",
-            "value": 0.6581430435180664
+            "value": 0.6
         },
         {
             "source": "37",
@@ -3552,7 +3552,7 @@
             "id": "368170",
             "attributes": {},
             "color": "rgb(233,133,104)",
-            "value": 0.6485729217529297
+            "value": 0.6
         },
         {
             "source": "33",
@@ -3560,7 +3560,7 @@
             "id": "370721",
             "attributes": {},
             "color": "rgb(247,215,163)",
-            "value": 0.6633737087249756
+            "value": 0.6
         },
         {
             "source": "28",
@@ -3568,7 +3568,7 @@
             "id": "1167005",
             "attributes": {},
             "color": "rgb(252,253,190)",
-            "value": 0.6502258777618408
+            "value": 0.6
         },
         {
             "source": "112",
@@ -3576,7 +3576,7 @@
             "id": "468420",
             "attributes": {},
             "color": "rgb(237,156,121)",
-            "value": 0.6392539739608765
+            "value": 0.6
         },
         {
             "source": "115",
@@ -3584,7 +3584,7 @@
             "id": "317407",
             "attributes": {},
             "color": "rgb(249,225,169)",
-            "value": 0.5635788440704346
+            "value": 0.5
         },
         {
             "source": "141",
@@ -3592,7 +3592,7 @@
             "id": "475748",
             "attributes": {},
             "color": "rgb(234,231,181)",
-            "value": 0.5775059461593628
+            "value": 0.5
         },
         {
             "source": "163",
@@ -3600,7 +3600,7 @@
             "id": "968745",
             "attributes": {},
             "color": "rgb(190,200,177)",
-            "value": 0.5552888512611389
+            "value": 0.5
         },
         {
             "source": "151",
@@ -3608,7 +3608,7 @@
             "id": "631392",
             "attributes": {},
             "color": "rgb(136,181,185)",
-            "value": 0.6141754388809204
+            "value": 0.6
         },
         {
             "source": "123",
@@ -3616,7 +3616,7 @@
             "id": "435972",
             "attributes": {},
             "color": "rgb(195,217,188)",
-            "value": 0.5854159593582153
+            "value": 0.5
         },
         {
             "source": "102",
@@ -3624,7 +3624,7 @@
             "id": "715279",
             "attributes": {},
             "color": "rgb(228,197,157)",
-            "value": 0.6606088876724243
+            "value": 0.6
         },
         {
             "source": "152",
@@ -3632,7 +3632,7 @@
             "id": "643688",
             "attributes": {},
             "color": "rgb(224,182,147)",
-            "value": 0.5169858336448669
+            "value": 0.5
         },
         {
             "source": "112",
@@ -3640,7 +3640,7 @@
             "id": "468413",
             "attributes": {},
             "color": "rgb(216,194,160)",
-            "value": 0.6249680519104004
+            "value": 0.6
         },
         {
             "source": "89",
@@ -3648,7 +3648,7 @@
             "id": "475600",
             "attributes": {},
             "color": "rgb(234,227,178)",
-            "value": 0.6496731042861938
+            "value": 0.6
         },
         {
             "source": "56",
@@ -3656,7 +3656,7 @@
             "id": "1055055",
             "attributes": {},
             "color": "rgb(220,57,51)",
-            "value": 0.620081901550293
+            "value": 0.6
         },
         {
             "source": "28",
@@ -3664,7 +3664,7 @@
             "id": "1167014",
             "attributes": {},
             "color": "rgb(216,230,188)",
-            "value": 0.6497691869735718
+            "value": 0.6
         },
         {
             "source": "46",
@@ -3672,7 +3672,7 @@
             "id": "96580",
             "attributes": {},
             "color": "rgb(247,210,159)",
-            "value": 0.586242139339447
+            "value": 0.5
         },
         {
             "source": "124",
@@ -3680,7 +3680,7 @@
             "id": "461987",
             "attributes": {},
             "color": "rgb(140,183,185)",
-            "value": 0.6713465452194214
+            "value": 0.6
         },
         {
             "source": "151",
@@ -3688,7 +3688,7 @@
             "id": "631390",
             "attributes": {},
             "color": "rgb(108,163,184)",
-            "value": 0.6691394448280334
+            "value": 0.6
         },
         {
             "source": "105",
@@ -3696,7 +3696,7 @@
             "id": "685973",
             "attributes": {},
             "color": "rgb(196,218,188)",
-            "value": 0.7354929447174072
+            "value": 0.7
         },
         {
             "source": "136",
@@ -3704,7 +3704,7 @@
             "id": "469819",
             "attributes": {},
             "color": "rgb(197,218,188)",
-            "value": 0.676866888999939
+            "value": 0.6
         },
         {
             "source": "161",
@@ -3712,7 +3712,7 @@
             "id": "720379",
             "attributes": {},
             "color": "rgb(247,221,167)",
-            "value": 0.6301515996456146
+            "value": 0.6
         },
         {
             "source": "3",
@@ -3720,7 +3720,7 @@
             "id": "92487",
             "attributes": {},
             "color": "rgb(184,211,187)",
-            "value": 0.6559121608734131
+            "value": 0.6
         },
         {
             "source": "40",
@@ -3728,7 +3728,7 @@
             "id": "632206",
             "attributes": {},
             "color": "rgb(194,217,188)",
-            "value": 0.6834184229373932
+            "value": 0.6
         },
         {
             "source": "71",
@@ -3736,7 +3736,7 @@
             "id": "863369",
             "attributes": {},
             "color": "rgb(226,237,189)",
-            "value": 0.6309577822685242
+            "value": 0.6
         },
         {
             "source": "19",
@@ -3744,7 +3744,7 @@
             "id": "34867",
             "attributes": {},
             "color": "rgb(223,203,164)",
-            "value": 0.7009914517402649
+            "value": 0.7
         },
         {
             "source": "104",
@@ -3752,7 +3752,7 @@
             "id": "378271",
             "attributes": {},
             "color": "rgb(203,222,188)",
-            "value": 0.6787145733833313
+            "value": 0.6
         },
         {
             "source": "151",
@@ -3760,7 +3760,7 @@
             "id": "631391",
             "attributes": {},
             "color": "rgb(165,199,186)",
-            "value": 0.6095176339149475
+            "value": 0.6
         },
         {
             "source": "104",
@@ -3768,7 +3768,7 @@
             "id": "378277",
             "attributes": {},
             "color": "rgb(223,235,189)",
-            "value": 0.67001673579216
+            "value": 0.6
         },
         {
             "source": "147",
@@ -3776,7 +3776,7 @@
             "id": "713341",
             "attributes": {},
             "color": "rgb(122,172,185)",
-            "value": 0.5590788125991821
+            "value": 0.5
         },
         {
             "source": "99",
@@ -3784,7 +3784,7 @@
             "id": "864070",
             "attributes": {},
             "color": "rgb(241,178,137)",
-            "value": 0.6641628742218018
+            "value": 0.6
         },
         {
             "source": "147",
@@ -3792,7 +3792,7 @@
             "id": "713337",
             "attributes": {},
             "color": "rgb(134,179,185)",
-            "value": 0.5817131996154785
+            "value": 0.5
         },
         {
             "source": "54",
@@ -3800,7 +3800,7 @@
             "id": "1036950",
             "attributes": {},
             "color": "rgb(163,197,186)",
-            "value": 0.7198034524917603
+            "value": 0.7
         },
         {
             "source": "68",
@@ -3808,7 +3808,7 @@
             "id": "104953",
             "attributes": {},
             "color": "rgb(186,211,187)",
-            "value": 0.6227089166641235
+            "value": 0.6
         },
         {
             "source": "167",
@@ -3816,7 +3816,7 @@
             "id": "1180924",
             "attributes": {},
             "color": "rgb(145,186,185)",
-            "value": 0.5399601459503174
+            "value": 0.5
         },
         {
             "source": "42",
@@ -3824,7 +3824,7 @@
             "id": "959537",
             "attributes": {},
             "color": "rgb(154,191,186)",
-            "value": 0.8055166006088257
+            "value": 0.8
         },
         {
             "source": "136",
@@ -3832,7 +3832,7 @@
             "id": "469814",
             "attributes": {},
             "color": "rgb(194,216,188)",
-            "value": 0.6714149713516235
+            "value": 0.6
         },
         {
             "source": "82",
@@ -3840,7 +3840,7 @@
             "id": "111507",
             "attributes": {},
             "color": "rgb(241,180,137)",
-            "value": 0.6227902173995972
+            "value": 0.6
         },
         {
             "source": "121",
@@ -3848,7 +3848,7 @@
             "id": "1078291",
             "attributes": {},
             "color": "rgb(200,220,188)",
-            "value": 0.6045434474945068
+            "value": 0.6
         },
         {
             "source": "148",
@@ -3856,7 +3856,7 @@
             "id": "560576",
             "attributes": {},
             "color": "rgb(210,214,179)",
-            "value": 0.6044083833694458
+            "value": 0.6
         },
         {
             "source": "141",
@@ -3864,7 +3864,7 @@
             "id": "475739",
             "attributes": {},
             "color": "rgb(210,227,188)",
-            "value": 0.5617170333862305
+            "value": 0.5
         },
         {
             "source": "3",
@@ -3872,7 +3872,7 @@
             "id": "92485",
             "attributes": {},
             "color": "rgb(181,208,187)",
-            "value": 0.6544308662414551
+            "value": 0.6
         },
         {
             "source": "101",
@@ -3880,7 +3880,7 @@
             "id": "209014",
             "attributes": {},
             "color": "rgb(251,233,175)",
-            "value": 0.5701030492782593
+            "value": 0.5
         },
         {
             "source": "155",
@@ -3888,7 +3888,7 @@
             "id": "1150649",
             "attributes": {},
             "color": "rgb(135,180,185)",
-            "value": 0.6339077949523926
+            "value": 0.6
         },
         {
             "source": "109",
@@ -3896,7 +3896,7 @@
             "id": "239708",
             "attributes": {},
             "color": "rgb(231,213,168)",
-            "value": 0.6818901896476746
+            "value": 0.6
         },
         {
             "source": "33",
@@ -3904,7 +3904,7 @@
             "id": "370719",
             "attributes": {},
             "color": "rgb(248,220,166)",
-            "value": 0.6502771377563477
+            "value": 0.6
         },
         {
             "source": "87",
@@ -3912,7 +3912,7 @@
             "id": "959988",
             "attributes": {},
             "color": "rgb(200,220,188)",
-            "value": 0.6413384675979614
+            "value": 0.6
         },
         {
             "source": "129",
@@ -3920,7 +3920,7 @@
             "id": "459210",
             "attributes": {},
             "color": "rgb(247,215,162)",
-            "value": 0.534091591835022
+            "value": 0.5
         },
         {
             "source": "151",
@@ -3928,7 +3928,7 @@
             "id": "631397",
             "attributes": {},
             "color": "rgb(135,180,185)",
-            "value": 0.6129378080368042
+            "value": 0.6
         },
         {
             "source": "24",
@@ -3936,7 +3936,7 @@
             "id": "896198",
             "attributes": {},
             "color": "rgb(163,197,186)",
-            "value": 0.6919747591018677
+            "value": 0.6
         },
         {
             "source": "57",
@@ -3944,7 +3944,7 @@
             "id": "209237",
             "attributes": {},
             "color": "rgb(218,231,188)",
-            "value": 0.6757625341415405
+            "value": 0.6
         },
         {
             "source": "117",
@@ -3952,7 +3952,7 @@
             "id": "506481",
             "attributes": {},
             "color": "rgb(199,200,172)",
-            "value": 0.5537443161010742
+            "value": 0.5
         },
         {
             "source": "109",
@@ -3960,7 +3960,7 @@
             "id": "239704",
             "attributes": {},
             "color": "rgb(227,211,168)",
-            "value": 0.6880289912223816
+            "value": 0.6
         },
         {
             "source": "42",
@@ -3968,7 +3968,7 @@
             "id": "959540",
             "attributes": {},
             "color": "rgb(159,194,186)",
-            "value": 0.7568018436431885
+            "value": 0.7
         },
         {
             "source": "90",
@@ -3976,7 +3976,7 @@
             "id": "865232",
             "attributes": {},
             "color": "rgb(246,210,159)",
-            "value": 0.6416884660720825
+            "value": 0.6
         },
         {
             "source": "71",
@@ -3984,7 +3984,7 @@
             "id": "863373",
             "attributes": {},
             "color": "rgb(188,213,187)",
-            "value": 0.6777876615524292
+            "value": 0.6
         },
         {
             "source": "75",
@@ -3992,7 +3992,7 @@
             "id": "863752",
             "attributes": {},
             "color": "rgb(225,85,70)",
-            "value": 0.631014347076416
+            "value": 0.6
         },
         {
             "source": "82",
@@ -4000,7 +4000,7 @@
             "id": "111506",
             "attributes": {},
             "color": "rgb(196,201,175)",
-            "value": 0.6199871301651001
+            "value": 0.6
         },
         {
             "source": "19",
@@ -4008,7 +4008,7 @@
             "id": "34868",
             "attributes": {},
             "color": "rgb(221,234,189)",
-            "value": 0.6964438557624817
+            "value": 0.6
         },
         {
             "source": "35",
@@ -4016,7 +4016,7 @@
             "id": "429269",
             "attributes": {},
             "color": "rgb(120,170,185)",
-            "value": 0.5725308656692505
+            "value": 0.5
         },
         {
             "source": "132",
@@ -4024,7 +4024,7 @@
             "id": "463370",
             "attributes": {},
             "color": "rgb(246,232,176)",
-            "value": 0.5665643811225891
+            "value": 0.5
         },
         {
             "source": "138",
@@ -4032,7 +4032,7 @@
             "id": "546291",
             "attributes": {},
             "color": "rgb(187,212,187)",
-            "value": 0.6273289322853088
+            "value": 0.6
         },
         {
             "source": "155",
@@ -4040,7 +4040,7 @@
             "id": "1150644",
             "attributes": {},
             "color": "rgb(106,162,184)",
-            "value": 0.6662379503250122
+            "value": 0.6
         },
         {
             "source": "140",
@@ -4048,7 +4048,7 @@
             "id": "1169563",
             "attributes": {},
             "color": "rgb(184,210,187)",
-            "value": 0.6019262075424194
+            "value": 0.6
         },
         {
             "source": "151",
@@ -4056,7 +4056,7 @@
             "id": "631395",
             "attributes": {},
             "color": "rgb(140,183,185)",
-            "value": 0.64753657579422
+            "value": 0.6
         },
         {
             "source": "166",
@@ -4064,7 +4064,7 @@
             "id": "1103510",
             "attributes": {},
             "color": "rgb(246,219,166)",
-            "value": 0.5330355167388916
+            "value": 0.5
         },
         {
             "source": "132",
@@ -4072,7 +4072,7 @@
             "id": "463374",
             "attributes": {},
             "color": "rgb(241,205,157)",
-            "value": 0.6225481629371643
+            "value": 0.6
         },
         {
             "source": "112",
@@ -4080,7 +4080,7 @@
             "id": "468418",
             "attributes": {},
             "color": "rgb(231,123,97)",
-            "value": 0.6208875179290771
+            "value": 0.6
         },
         {
             "source": "155",
@@ -4088,7 +4088,7 @@
             "id": "1150640",
             "attributes": {},
             "color": "rgb(142,184,185)",
-            "value": 0.6461056470870972
+            "value": 0.6
         },
         {
             "source": "134",
@@ -4096,7 +4096,7 @@
             "id": "1008411",
             "attributes": {},
             "color": "rgb(238,164,127)",
-            "value": 0.6115473508834839
+            "value": 0.6
         },
         {
             "source": "33",
@@ -4104,7 +4104,7 @@
             "id": "370726",
             "attributes": {},
             "color": "rgb(222,216,174)",
-            "value": 0.6440364718437195
+            "value": 0.6
         },
         {
             "source": "96",
@@ -4112,7 +4112,7 @@
             "id": "1039836",
             "attributes": {},
             "color": "rgb(247,211,160)",
-            "value": 0.6381015181541443
+            "value": 0.6
         },
         {
             "source": "161",
@@ -4120,7 +4120,7 @@
             "id": "720371",
             "attributes": {},
             "color": "rgb(234,242,189)",
-            "value": 0.6031858921051025
+            "value": 0.6
         },
         {
             "source": "104",
@@ -4128,7 +4128,7 @@
             "id": "378276",
             "attributes": {},
             "color": "rgb(196,217,188)",
-            "value": 0.6715688705444336
+            "value": 0.6
         },
         {
             "source": "119",
@@ -4136,7 +4136,7 @@
             "id": "474689",
             "attributes": {},
             "color": "rgb(130,177,185)",
-            "value": 0.6850428581237793
+            "value": 0.6
         },
         {
             "source": "118",
@@ -4144,7 +4144,7 @@
             "id": "1178473",
             "attributes": {},
             "color": "rgb(232,165,130)",
-            "value": 0.6143214702606201
+            "value": 0.6
         },
         {
             "source": "83",
@@ -4152,7 +4152,7 @@
             "id": "550306",
             "attributes": {},
             "color": "rgb(163,197,186)",
-            "value": 0.619024932384491
+            "value": 0.6
         },
         {
             "source": "121",
@@ -4160,7 +4160,7 @@
             "id": "1078293",
             "attributes": {},
             "color": "rgb(167,200,187)",
-            "value": 0.6256615519523621
+            "value": 0.6
         },
         {
             "source": "92",
@@ -4168,7 +4168,7 @@
             "id": "1033188",
             "attributes": {},
             "color": "rgb(242,182,139)",
-            "value": 0.6383761167526245
+            "value": 0.6
         },
         {
             "source": "91",
@@ -4176,7 +4176,7 @@
             "id": "890735",
             "attributes": {},
             "color": "rgb(131,177,185)",
-            "value": 0.6381039619445801
+            "value": 0.6
         },
         {
             "source": "78",
@@ -4184,7 +4184,7 @@
             "id": "428499",
             "attributes": {},
             "color": "rgb(143,185,186)",
-            "value": 0.7390983402729034
+            "value": 0.7
         },
         {
             "source": "158",
@@ -4192,7 +4192,7 @@
             "id": "715934",
             "attributes": {},
             "color": "rgb(83,148,183)",
-            "value": 0.6841620802879333
+            "value": 0.6
         },
         {
             "source": "138",
@@ -4200,7 +4200,7 @@
             "id": "546297",
             "attributes": {},
             "color": "rgb(171,202,186)",
-            "value": 0.624150276184082
+            "value": 0.6
         },
         {
             "source": "13",
@@ -4208,7 +4208,7 @@
             "id": "30000",
             "attributes": {},
             "color": "rgb(194,216,187)",
-            "value": 0.6552456617355347
+            "value": 0.6
         },
         {
             "source": "37",
@@ -4216,7 +4216,7 @@
             "id": "368176",
             "attributes": {},
             "color": "rgb(231,123,97)",
-            "value": 0.6236100196838379
+            "value": 0.6
         },
         {
             "source": "90",
@@ -4224,7 +4224,7 @@
             "id": "865230",
             "attributes": {},
             "color": "rgb(200,192,165)",
-            "value": 0.6486673653125763
+            "value": 0.6
         },
         {
             "source": "91",
@@ -4232,7 +4232,7 @@
             "id": "890742",
             "attributes": {},
             "color": "rgb(157,193,186)",
-            "value": 0.641967236995697
+            "value": 0.6
         },
         {
             "source": "152",
@@ -4240,7 +4240,7 @@
             "id": "643716",
             "attributes": {},
             "color": "rgb(234,138,108)",
-            "value": 0.5634302496910095
+            "value": 0.5
         },
         {
             "source": "2",
@@ -4248,7 +4248,7 @@
             "id": "12746",
             "attributes": {},
             "color": "rgb(195,200,174)",
-            "value": 0.6923706531524658
+            "value": 0.6
         },
         {
             "source": "76",
@@ -4256,7 +4256,7 @@
             "id": "109865",
             "attributes": {},
             "color": "rgb(85,149,183)",
-            "value": 0.6685231924057007
+            "value": 0.6
         },
         {
             "source": "21",
@@ -4264,7 +4264,7 @@
             "id": "231646",
             "attributes": {},
             "color": "rgb(246,207,156)",
-            "value": 0.6875923871994019
+            "value": 0.6
         },
         {
             "source": "71",
@@ -4272,7 +4272,7 @@
             "id": "863375",
             "attributes": {},
             "color": "rgb(184,210,187)",
-            "value": 0.6480181813240051
+            "value": 0.6
         },
         {
             "source": "68",
@@ -4280,7 +4280,7 @@
             "id": "104950",
             "attributes": {},
             "color": "rgb(192,215,188)",
-            "value": 0.5979867279529572
+            "value": 0.5
         },
         {
             "source": "89",
@@ -4288,7 +4288,7 @@
             "id": "475607",
             "attributes": {},
             "color": "rgb(171,202,187)",
-            "value": 0.673038125038147
+            "value": 0.6
         },
         {
             "source": "2",
@@ -4296,7 +4296,7 @@
             "id": "12747",
             "attributes": {},
             "color": "rgb(176,205,187)",
-            "value": 0.6639648079872131
+            "value": 0.6
         },
         {
             "source": "19",
@@ -4304,7 +4304,7 @@
             "id": "34874",
             "attributes": {},
             "color": "rgb(186,212,187)",
-            "value": 0.6890542209148407
+            "value": 0.6
         },
         {
             "source": "116",
@@ -4312,7 +4312,7 @@
             "id": "536151",
             "attributes": {},
             "color": "rgb(183,210,187)",
-            "value": 0.5600975751876831
+            "value": 0.5
         },
         {
             "source": "161",
@@ -4320,7 +4320,7 @@
             "id": "720385",
             "attributes": {},
             "color": "rgb(244,248,190)",
-            "value": 0.594519317150116
+            "value": 0.5
         },
         {
             "source": "146",
@@ -4328,7 +4328,7 @@
             "id": "543524",
             "attributes": {},
             "color": "rgb(199,219,188)",
-            "value": 0.6890389919281006
+            "value": 0.6
         },
         {
             "source": "101",
@@ -4336,7 +4336,7 @@
             "id": "209015",
             "attributes": {},
             "color": "rgb(230,231,183)",
-            "value": 0.5876878499984741
+            "value": 0.5
         },
         {
             "source": "11",
@@ -4344,7 +4344,7 @@
             "id": "101170",
             "attributes": {},
             "color": "rgb(216,219,179)",
-            "value": 0.6659638285636902
+            "value": 0.6
         },
         {
             "source": "161",
@@ -4352,7 +4352,7 @@
             "id": "720382",
             "attributes": {},
             "color": "rgb(250,241,181)",
-            "value": 0.576427698135376
+            "value": 0.5
         },
         {
             "source": "60",
@@ -4360,7 +4360,7 @@
             "id": "102664",
             "attributes": {},
             "color": "rgb(188,213,187)",
-            "value": 0.7012500166893005
+            "value": 0.7
         },
         {
             "source": "33",
@@ -4368,7 +4368,7 @@
             "id": "370718",
             "attributes": {},
             "color": "rgb(226,218,174)",
-            "value": 0.676079511642456
+            "value": 0.6
         },
         {
             "source": "92",
@@ -4376,7 +4376,7 @@
             "id": "1033193",
             "attributes": {},
             "color": "rgb(209,213,179)",
-            "value": 0.6374410390853882
+            "value": 0.6
         },
         {
             "source": "151",
@@ -4384,7 +4384,7 @@
             "id": "631396",
             "attributes": {},
             "color": "rgb(134,179,185)",
-            "value": 0.6576882600784302
+            "value": 0.6
         },
         {
             "source": "91",
@@ -4392,7 +4392,7 @@
             "id": "890743",
             "attributes": {},
             "color": "rgb(202,202,172)",
-            "value": 0.6186261177062988
+            "value": 0.6
         },
         {
             "source": "115",
@@ -4400,7 +4400,7 @@
             "id": "317408",
             "attributes": {},
             "color": "rgb(249,227,171)",
-            "value": 0.611077070236206
+            "value": 0.6
         },
         {
             "source": "33",
@@ -4408,7 +4408,7 @@
             "id": "370729",
             "attributes": {},
             "color": "rgb(248,221,167)",
-            "value": 0.6418102979660034
+            "value": 0.6
         },
         {
             "source": "112",
@@ -4416,7 +4416,7 @@
             "id": "468411",
             "attributes": {},
             "color": "rgb(235,144,112)",
-            "value": 0.6121669411659241
+            "value": 0.6
         },
         {
             "source": "128",
@@ -4424,7 +4424,7 @@
             "id": "459506",
             "attributes": {},
             "color": "rgb(200,220,188)",
-            "value": 0.5601117014884949
+            "value": 0.5
         },
         {
             "source": "78",
@@ -4432,7 +4432,7 @@
             "id": "428498",
             "attributes": {},
             "color": "rgb(120,170,185)",
-            "value": 0.7396643161773682
+            "value": 0.7
         },
         {
             "source": "153",
@@ -4440,7 +4440,7 @@
             "id": "648018",
             "attributes": {},
             "color": "rgb(238,159,122)",
-            "value": 0.6180993318557739
+            "value": 0.6
         },
         {
             "source": "77",
@@ -4448,7 +4448,7 @@
             "id": "411924",
             "attributes": {},
             "color": "rgb(93,154,183)",
-            "value": 0.8407039046287537
+            "value": 0.8
         },
         {
             "source": "59",
@@ -4456,7 +4456,7 @@
             "id": "629687",
             "attributes": {},
             "color": "rgb(163,197,186)",
-            "value": 0.6724206209182739
+            "value": 0.6
         },
         {
             "source": "138",
@@ -4464,7 +4464,7 @@
             "id": "546292",
             "attributes": {},
             "color": "rgb(190,214,187)",
-            "value": 0.6352616548538208
+            "value": 0.6
         },
         {
             "source": "49",
@@ -4472,7 +4472,7 @@
             "id": "646458",
             "attributes": {},
             "color": "rgb(249,237,179)",
-            "value": 0.744529128074646
+            "value": 0.7
         },
         {
             "source": "112",
@@ -4480,7 +4480,7 @@
             "id": "468417",
             "attributes": {},
             "color": "rgb(229,202,160)",
-            "value": 0.603958249092102
+            "value": 0.6
         },
         {
             "source": "30",
@@ -4488,7 +4488,7 @@
             "id": "42040",
             "attributes": {},
             "color": "rgb(234,223,175)",
-            "value": 0.631657600402832
+            "value": 0.6
         },
         {
             "source": "112",
@@ -4496,7 +4496,7 @@
             "id": "468419",
             "attributes": {},
             "color": "rgb(227,100,81)",
-            "value": 0.6021164059638977
+            "value": 0.6
         },
         {
             "source": "100",
@@ -4504,7 +4504,7 @@
             "id": "1186827",
             "attributes": {},
             "color": "rgb(244,196,149)",
-            "value": 0.671877384185791
+            "value": 0.6
         },
         {
             "source": "39",
@@ -4512,7 +4512,7 @@
             "id": "103735",
             "attributes": {},
             "color": "rgb(182,209,187)",
-            "value": 0.7216588258743286
+            "value": 0.7
         },
         {
             "source": "2",
@@ -4520,7 +4520,7 @@
             "id": "12750",
             "attributes": {},
             "color": "rgb(145,186,186)",
-            "value": 0.685901403427124
+            "value": 0.6
         },
         {
             "source": "103",
@@ -4528,7 +4528,7 @@
             "id": "354591",
             "attributes": {},
             "color": "rgb(150,189,186)",
-            "value": 0.82008296251297
+            "value": 0.8
         },
         {
             "source": "97",
@@ -4536,7 +4536,7 @@
             "id": "471440",
             "attributes": {},
             "color": "rgb(209,226,188)",
-            "value": 0.6916890740394592
+            "value": 0.6
         },
         {
             "source": "118",
@@ -4544,7 +4544,7 @@
             "id": "1178483",
             "attributes": {},
             "color": "rgb(232,124,97)",
-            "value": 0.5963233113288879
+            "value": 0.5
         },
         {
             "source": "161",
@@ -4552,7 +4552,7 @@
             "id": "720372",
             "attributes": {},
             "color": "rgb(198,219,188)",
-            "value": 0.5999060273170471
+            "value": 0.5
         },
         {
             "source": "96",
@@ -4560,7 +4560,7 @@
             "id": "1039833",
             "attributes": {},
             "color": "rgb(246,208,158)",
-            "value": 0.6150023341178894
+            "value": 0.6
         },
         {
             "source": "129",
@@ -4568,7 +4568,7 @@
             "id": "459209",
             "attributes": {},
             "color": "rgb(245,203,153)",
-            "value": 0.5802063941955566
+            "value": 0.5
         },
         {
             "source": "40",
@@ -4576,7 +4576,7 @@
             "id": "632204",
             "attributes": {},
             "color": "rgb(229,198,157)",
-            "value": 0.6892661452293396
+            "value": 0.6
         },
         {
             "source": "84",
@@ -4584,7 +4584,7 @@
             "id": "1003535",
             "attributes": {},
             "color": "rgb(239,168,130)",
-            "value": 0.6842822432518005
+            "value": 0.6
         },
         {
             "source": "42",
@@ -4592,7 +4592,7 @@
             "id": "959539",
             "attributes": {},
             "color": "rgb(187,212,187)",
-            "value": 0.725572943687439
+            "value": 0.7
         },
         {
             "source": "17",
@@ -4600,7 +4600,7 @@
             "id": "32761",
             "attributes": {},
             "color": "rgb(214,229,189)",
-            "value": 0.659714549779892
+            "value": 0.6
         },
         {
             "source": "92",
@@ -4608,7 +4608,7 @@
             "id": "1033184",
             "attributes": {},
             "color": "rgb(209,214,179)",
-            "value": 0.671608567237854
+            "value": 0.6
         },
         {
             "source": "91",
@@ -4616,7 +4616,7 @@
             "id": "890740",
             "attributes": {},
             "color": "rgb(160,195,186)",
-            "value": 0.6248290538787842
+            "value": 0.6
         },
         {
             "source": "11",
@@ -4624,7 +4624,7 @@
             "id": "101163",
             "attributes": {},
             "color": "rgb(230,228,180)",
-            "value": 0.6849550604820251
+            "value": 0.6
         },
         {
             "source": "99",
@@ -4632,7 +4632,7 @@
             "id": "864064",
             "attributes": {},
             "color": "rgb(244,195,148)",
-            "value": 0.6679589152336121
+            "value": 0.6
         },
         {
             "source": "128",
@@ -4640,7 +4640,7 @@
             "id": "459511",
             "attributes": {},
             "color": "rgb(181,208,187)",
-            "value": 0.5586205124855042
+            "value": 0.5
         },
         {
             "source": "119",
@@ -4648,7 +4648,7 @@
             "id": "474692",
             "attributes": {},
             "color": "rgb(145,186,186)",
-            "value": 0.7230029702186584
+            "value": 0.7
         },
         {
             "source": "152",
@@ -4656,7 +4656,7 @@
             "id": "643689",
             "attributes": {},
             "color": "rgb(241,175,134)",
-            "value": 0.5506447553634644
+            "value": 0.5
         },
         {
             "source": "23",
@@ -4664,7 +4664,7 @@
             "id": "741639",
             "attributes": {},
             "color": "rgb(216,231,189)",
-            "value": 0.782103955745697
+            "value": 0.7
         },
         {
             "source": "79",
@@ -4672,7 +4672,7 @@
             "id": "1179154",
             "attributes": {},
             "color": "rgb(98,157,184)",
-            "value": 0.7832345962524414
+            "value": 0.7
         },
         {
             "source": "2",
@@ -4680,7 +4680,7 @@
             "id": "12748",
             "attributes": {},
             "color": "rgb(146,187,186)",
-            "value": 0.7262635231018066
+            "value": 0.7
         },
         {
             "source": "164",
@@ -4688,7 +4688,7 @@
             "id": "1015826",
             "attributes": {},
             "color": "rgb(200,220,188)",
-            "value": 0.509796142578125
+            "value": 0.5
         },
         {
             "source": "121",
@@ -4696,7 +4696,7 @@
             "id": "1078290",
             "attributes": {},
             "color": "rgb(215,230,189)",
-            "value": 0.6695717573165894
+            "value": 0.6
         },
         {
             "source": "151",
@@ -4704,7 +4704,7 @@
             "id": "631393",
             "attributes": {},
             "color": "rgb(129,176,185)",
-            "value": 0.619265615940094
+            "value": 0.6
         },
         {
             "source": "62",
@@ -4712,7 +4712,7 @@
             "id": "103067",
             "attributes": {},
             "color": "rgb(180,208,187)",
-            "value": 0.6891924142837524
+            "value": 0.6
         },
         {
             "source": "109",
@@ -4720,7 +4720,7 @@
             "id": "239706",
             "attributes": {},
             "color": "rgb(229,212,168)",
-            "value": 0.6846916675567627
+            "value": 0.6
         },
         {
             "source": "91",
@@ -4728,7 +4728,7 @@
             "id": "890737",
             "attributes": {},
             "color": "rgb(152,190,186)",
-            "value": 0.6186654567718506
+            "value": 0.6
         },
         {
             "source": "21",
@@ -4736,7 +4736,7 @@
             "id": "231641",
             "attributes": {},
             "color": "rgb(246,205,155)",
-            "value": 0.653359055519104
+            "value": 0.6
         },
         {
             "source": "59",
@@ -4744,7 +4744,7 @@
             "id": "629690",
             "attributes": {},
             "color": "rgb(169,201,186)",
-            "value": 0.6792820692062378
+            "value": 0.6
         },
         {
             "source": "59",
@@ -4752,7 +4752,7 @@
             "id": "629693",
             "attributes": {},
             "color": "rgb(215,230,188)",
-            "value": 0.702668160200119
+            "value": 0.7
         },
         {
             "source": "89",
@@ -4760,7 +4760,7 @@
             "id": "475606",
             "attributes": {},
             "color": "rgb(188,213,187)",
-            "value": 0.6472276747226715
+            "value": 0.6
         },
         {
             "source": "112",
@@ -4768,7 +4768,7 @@
             "id": "468410",
             "attributes": {},
             "color": "rgb(244,194,147)",
-            "value": 0.6010972261428833
+            "value": 0.6
         },
         {
             "source": "19",
@@ -4776,7 +4776,7 @@
             "id": "34871",
             "attributes": {},
             "color": "rgb(205,223,188)",
-            "value": 0.691959023475647
+            "value": 0.6
         },
         {
             "source": "62",
@@ -4784,7 +4784,7 @@
             "id": "103066",
             "attributes": {},
             "color": "rgb(185,211,187)",
-            "value": 0.7480677366256714
+            "value": 0.7
         },
         {
             "source": "161",
@@ -4792,7 +4792,7 @@
             "id": "720368",
             "attributes": {},
             "color": "rgb(228,238,189)",
-            "value": 0.6011090874671936
+            "value": 0.6
         },
         {
             "source": "123",
@@ -4800,7 +4800,7 @@
             "id": "435967",
             "attributes": {},
             "color": "rgb(217,231,189)",
-            "value": 0.608380913734436
+            "value": 0.6
         },
         {
             "source": "33",
@@ -4808,7 +4808,7 @@
             "id": "370724",
             "attributes": {},
             "color": "rgb(232,222,175)",
-            "value": 0.6374444365501404
+            "value": 0.6
         },
         {
             "source": "157",
@@ -4816,7 +4816,7 @@
             "id": "708482",
             "attributes": {},
             "color": "rgb(105,161,184)",
-            "value": 0.7039828896522522
+            "value": 0.7
         },
         {
             "source": "40",
@@ -4824,7 +4824,7 @@
             "id": "632210",
             "attributes": {},
             "color": "rgb(235,231,181)",
-            "value": 0.755565881729126
+            "value": 0.7
         },
         {
             "source": "123",
@@ -4832,7 +4832,7 @@
             "id": "435970",
             "attributes": {},
             "color": "rgb(173,203,187)",
-            "value": 0.5860702395439148
+            "value": 0.5
         },
         {
             "source": "37",
@@ -4840,7 +4840,7 @@
             "id": "368182",
             "attributes": {},
             "color": "rgb(226,94,76)",
-            "value": 0.6077040433883667
+            "value": 0.6
         },
         {
             "source": "155",
@@ -4848,7 +4848,7 @@
             "id": "1150650",
             "attributes": {},
             "color": "rgb(129,176,185)",
-            "value": 0.6799051761627197
+            "value": 0.6
         },
         {
             "source": "128",
@@ -4856,7 +4856,7 @@
             "id": "459503",
             "attributes": {},
             "color": "rgb(217,231,189)",
-            "value": 0.5721796751022339
+            "value": 0.5
         },
         {
             "source": "97",
@@ -4864,7 +4864,7 @@
             "id": "471444",
             "attributes": {},
             "color": "rgb(194,216,187)",
-            "value": 0.6412613391876221
+            "value": 0.6
         },
         {
             "source": "102",
@@ -4872,7 +4872,7 @@
             "id": "715271",
             "attributes": {},
             "color": "rgb(237,151,117)",
-            "value": 0.6535338163375854
+            "value": 0.6
         },
         {
             "source": "84",
@@ -4880,7 +4880,7 @@
             "id": "1003538",
             "attributes": {},
             "color": "rgb(247,212,160)",
-            "value": 0.6504291892051697
+            "value": 0.6
         },
         {
             "source": "111",
@@ -4888,7 +4888,7 @@
             "id": "530981",
             "attributes": {},
             "color": "rgb(210,192,161)",
-            "value": 0.6484021544456482
+            "value": 0.6
         },
         {
             "source": "161",
@@ -4896,7 +4896,7 @@
             "id": "720377",
             "attributes": {},
             "color": "rgb(224,235,189)",
-            "value": 0.6034559011459351
+            "value": 0.6
         },
         {
             "source": "20",
@@ -4904,7 +4904,7 @@
             "id": "123913",
             "attributes": {},
             "color": "rgb(216,230,189)",
-            "value": 0.7099087834358215
+            "value": 0.7
         },
         {
             "source": "74",
@@ -4912,7 +4912,7 @@
             "id": "605948",
             "attributes": {},
             "color": "rgb(191,215,187)",
-            "value": 0.654592752456665
+            "value": 0.6
         },
         {
             "source": "71",
@@ -4920,7 +4920,7 @@
             "id": "863376",
             "attributes": {},
             "color": "rgb(185,211,187)",
-            "value": 0.6468478441238403
+            "value": 0.6
         },
         {
             "source": "102",
@@ -4928,7 +4928,7 @@
             "id": "715283",
             "attributes": {},
             "color": "rgb(241,180,137)",
-            "value": 0.6958176493644714
+            "value": 0.6
         },
         {
             "source": "112",
@@ -4936,7 +4936,7 @@
             "id": "468415",
             "attributes": {},
             "color": "rgb(229,202,160)",
-            "value": 0.601974606513977
+            "value": 0.6
         },
         {
             "source": "32",
@@ -4944,7 +4944,7 @@
             "id": "369291",
             "attributes": {},
             "color": "rgb(209,226,188)",
-            "value": 0.6562219858169556
+            "value": 0.6
         },
         {
             "source": "20",
@@ -4952,7 +4952,7 @@
             "id": "123915",
             "attributes": {},
             "color": "rgb(172,202,187)",
-            "value": 0.7547656297683716
+            "value": 0.7
         },
         {
             "source": "30",
@@ -4960,7 +4960,7 @@
             "id": "42038",
             "attributes": {},
             "color": "rgb(230,240,189)",
-            "value": 0.6810821294784546
+            "value": 0.6
         },
         {
             "source": "66",
@@ -4968,7 +4968,7 @@
             "id": "978010",
             "attributes": {},
             "color": "rgb(173,203,187)",
-            "value": 0.6937024593353271
+            "value": 0.6
         },
         {
             "source": "31",
@@ -4976,7 +4976,7 @@
             "id": "218243",
             "attributes": {},
             "color": "rgb(243,229,175)",
-            "value": 0.6699752807617188
+            "value": 0.6
         },
         {
             "source": "37",
@@ -4984,7 +4984,7 @@
             "id": "368162",
             "attributes": {},
             "color": "rgb(237,158,122)",
-            "value": 0.6634610295295715
+            "value": 0.6
         },
         {
             "source": "13",
@@ -4992,7 +4992,7 @@
             "id": "30003",
             "attributes": {},
             "color": "rgb(182,209,187)",
-            "value": 0.640873908996582
+            "value": 0.6
         },
         {
             "source": "89",
@@ -5000,7 +5000,7 @@
             "id": "475602",
             "attributes": {},
             "color": "rgb(233,224,176)",
-            "value": 0.6710208654403687
+            "value": 0.6
         },
         {
             "source": "71",
@@ -5008,7 +5008,7 @@
             "id": "863370",
             "attributes": {},
             "color": "rgb(189,213,187)",
-            "value": 0.6369789838790894
+            "value": 0.6
         },
         {
             "source": "102",
@@ -5016,7 +5016,7 @@
             "id": "715274",
             "attributes": {},
             "color": "rgb(243,188,143)",
-            "value": 0.6596874594688416
+            "value": 0.6
         },
         {
             "source": "114",
@@ -5024,7 +5024,7 @@
             "id": "1039800",
             "attributes": {},
             "color": "rgb(134,179,185)",
-            "value": 0.6380554437637329
+            "value": 0.6
         },
         {
             "source": "115",
@@ -5032,7 +5032,7 @@
             "id": "317405",
             "attributes": {},
             "color": "rgb(245,241,184)",
-            "value": 0.5792793035507202
+            "value": 0.5
         },
         {
             "source": "11",
@@ -5040,7 +5040,7 @@
             "id": "101161",
             "attributes": {},
             "color": "rgb(252,241,181)",
-            "value": 0.6730815172195435
+            "value": 0.6
         },
         {
             "source": "135",
@@ -5048,7 +5048,7 @@
             "id": "1030203",
             "attributes": {},
             "color": "rgb(213,228,188)",
-            "value": 0.630730390548706
+            "value": 0.6
         },
         {
             "source": "166",
@@ -5056,7 +5056,7 @@
             "id": "1103525",
             "attributes": {},
             "color": "rgb(242,183,140)",
-            "value": 0.533816397190094
+            "value": 0.5
         },
         {
             "source": "125",
@@ -5064,7 +5064,7 @@
             "id": "467157",
             "attributes": {},
             "color": "rgb(241,232,179)",
-            "value": 0.5617706775665283
+            "value": 0.5
         },
         {
             "source": "72",
@@ -5072,7 +5072,7 @@
             "id": "109214",
             "attributes": {},
             "color": "rgb(234,203,159)",
-            "value": 0.6626286804676056
+            "value": 0.6
         },
         {
             "source": "45",
@@ -5080,7 +5080,7 @@
             "id": "264139",
             "attributes": {},
             "color": "rgb(185,211,187)",
-            "value": 0.5667709708213806
+            "value": 0.5
         },
         {
             "source": "147",
@@ -5088,7 +5088,7 @@
             "id": "713335",
             "attributes": {},
             "color": "rgb(152,190,186)",
-            "value": 0.6128626465797424
+            "value": 0.6
         },
         {
             "source": "46",
@@ -5096,7 +5096,7 @@
             "id": "96583",
             "attributes": {},
             "color": "rgb(241,179,137)",
-            "value": 0.6182436048984528
+            "value": 0.6
         },
         {
             "source": "110",
@@ -5104,7 +5104,7 @@
             "id": "242645",
             "attributes": {},
             "color": "rgb(202,221,188)",
-            "value": 0.5683128833770752
+            "value": 0.5
         },
         {
             "source": "119",
@@ -5112,7 +5112,7 @@
             "id": "474690",
             "attributes": {},
             "color": "rgb(161,196,186)",
-            "value": 0.6799087524414062
+            "value": 0.6
         },
         {
             "source": "90",
@@ -5120,7 +5120,7 @@
             "id": "865215",
             "attributes": {},
             "color": "rgb(223,206,166)",
-            "value": 0.6329583525657654
+            "value": 0.6
         },
         {
             "source": "101",
@@ -5128,7 +5128,7 @@
             "id": "209016",
             "attributes": {},
             "color": "rgb(232,233,184)",
-            "value": 0.579761266708374
+            "value": 0.5
         },
         {
             "source": "147",
@@ -5136,7 +5136,7 @@
             "id": "713333",
             "attributes": {},
             "color": "rgb(178,207,187)",
-            "value": 0.5989397168159485
+            "value": 0.5
         },
         {
             "source": "163",
@@ -5144,7 +5144,7 @@
             "id": "968743",
             "attributes": {},
             "color": "rgb(231,226,179)",
-            "value": 0.5566644072532654
+            "value": 0.5
         },
         {
             "source": "18",
@@ -5152,7 +5152,7 @@
             "id": "880464",
             "attributes": {},
             "color": "rgb(204,223,188)",
-            "value": 0.655524730682373
+            "value": 0.6
         },
         {
             "source": "110",
@@ -5160,7 +5160,7 @@
             "id": "242643",
             "attributes": {},
             "color": "rgb(216,231,189)",
-            "value": 0.5796829462051392
+            "value": 0.5
         },
         {
             "source": "138",
@@ -5168,7 +5168,7 @@
             "id": "546288",
             "attributes": {},
             "color": "rgb(165,198,186)",
-            "value": 0.6909565329551697
+            "value": 0.6
         },
         {
             "source": "102",
@@ -5176,7 +5176,7 @@
             "id": "715276",
             "attributes": {},
             "color": "rgb(244,195,148)",
-            "value": 0.6562259197235107
+            "value": 0.6
         },
         {
             "source": "82",
@@ -5184,7 +5184,7 @@
             "id": "111502",
             "attributes": {},
             "color": "rgb(231,223,176)",
-            "value": 0.6204227805137634
+            "value": 0.6
         },
         {
             "source": "132",
@@ -5192,7 +5192,7 @@
             "id": "463375",
             "attributes": {},
             "color": "rgb(244,222,170)",
-            "value": 0.5993536710739136
+            "value": 0.5
         },
         {
             "source": "40",
@@ -5200,7 +5200,7 @@
             "id": "632205",
             "attributes": {},
             "color": "rgb(219,232,189)",
-            "value": 0.6923123598098755
+            "value": 0.6
         },
         {
             "source": "50",
@@ -5208,7 +5208,7 @@
             "id": "862150",
             "attributes": {},
             "color": "rgb(203,181,156)",
-            "value": 0.6084468364715576
+            "value": 0.6
         },
         {
             "source": "136",
@@ -5216,7 +5216,7 @@
             "id": "469816",
             "attributes": {},
             "color": "rgb(228,238,189)",
-            "value": 0.6708171963691711
+            "value": 0.6
         },
         {
             "source": "105",
@@ -5224,7 +5224,7 @@
             "id": "685974",
             "attributes": {},
             "color": "rgb(171,202,187)",
-            "value": 0.7272778153419495
+            "value": 0.7
         },
         {
             "source": "154",
@@ -5232,7 +5232,7 @@
             "id": "647466",
             "attributes": {},
             "color": "rgb(245,205,155)",
-            "value": 0.6237459182739258
+            "value": 0.6
         },
         {
             "source": "30",
@@ -5240,7 +5240,7 @@
             "id": "42039",
             "attributes": {},
             "color": "rgb(235,243,189)",
-            "value": 0.6629512906074524
+            "value": 0.6
         },
         {
             "source": "31",
@@ -5248,7 +5248,7 @@
             "id": "218242",
             "attributes": {},
             "color": "rgb(245,249,190)",
-            "value": 0.6144156455993652
+            "value": 0.6
         },
         {
             "source": "42",
@@ -5256,7 +5256,7 @@
             "id": "959541",
             "attributes": {},
             "color": "rgb(203,222,188)",
-            "value": 0.7276562452316284
+            "value": 0.7
         },
         {
             "source": "92",
@@ -5264,7 +5264,7 @@
             "id": "1033190",
             "attributes": {},
             "color": "rgb(250,228,172)",
-            "value": 0.629197359085083
+            "value": 0.6
         },
         {
             "source": "37",
@@ -5272,7 +5272,7 @@
             "id": "368172",
             "attributes": {},
             "color": "rgb(221,65,56)",
-            "value": 0.6501342058181763
+            "value": 0.6
         },
         {
             "source": "22",
@@ -5280,7 +5280,7 @@
             "id": "234202",
             "attributes": {},
             "color": "rgb(221,233,189)",
-            "value": 0.644749790430069
+            "value": 0.6
         },
         {
             "source": "137",
@@ -5288,7 +5288,7 @@
             "id": "1039650",
             "attributes": {},
             "color": "rgb(200,220,188)",
-            "value": 0.6913892030715942
+            "value": 0.6
         },
         {
             "source": "56",
@@ -5296,7 +5296,7 @@
             "id": "1055045",
             "attributes": {},
             "color": "rgb(222,72,61)",
-            "value": 0.5952301025390625
+            "value": 0.5
         },
         {
             "source": "71",
@@ -5304,7 +5304,7 @@
             "id": "863374",
             "attributes": {},
             "color": "rgb(210,227,188)",
-            "value": 0.6824546456336975
+            "value": 0.6
         },
         {
             "source": "74",
@@ -5312,7 +5312,7 @@
             "id": "605949",
             "attributes": {},
             "color": "rgb(217,231,188)",
-            "value": 0.6184154748916626
+            "value": 0.6
         },
         {
             "source": "66",
@@ -5320,7 +5320,7 @@
             "id": "978011",
             "attributes": {},
             "color": "rgb(143,185,185)",
-            "value": 0.713110625743866
+            "value": 0.7
         },
         {
             "source": "27",
@@ -5328,7 +5328,7 @@
             "id": "636694",
             "attributes": {},
             "color": "rgb(193,216,187)",
-            "value": 0.6908032894134521
+            "value": 0.6
         },
         {
             "source": "74",
@@ -5336,7 +5336,7 @@
             "id": "605943",
             "attributes": {},
             "color": "rgb(251,240,180)",
-            "value": 0.6828256845474243
+            "value": 0.6
         },
         {
             "source": "91",
@@ -5344,7 +5344,7 @@
             "id": "890738",
             "attributes": {},
             "color": "rgb(203,209,177)",
-            "value": 0.6440801620483398
+            "value": 0.6
         },
         {
             "source": "87",
@@ -5352,7 +5352,7 @@
             "id": "959994",
             "attributes": {},
             "color": "rgb(203,188,161)",
-            "value": 0.654885470867157
+            "value": 0.6
         },
         {
             "source": "129",
@@ -5360,7 +5360,7 @@
             "id": "459213",
             "attributes": {},
             "color": "rgb(244,195,148)",
-            "value": 0.5478734970092773
+            "value": 0.5
         },
         {
             "source": "147",
@@ -5368,7 +5368,7 @@
             "id": "713332",
             "attributes": {},
             "color": "rgb(154,192,186)",
-            "value": 0.6179313063621521
+            "value": 0.6
         },
         {
             "source": "5",
@@ -5376,7 +5376,7 @@
             "id": "238581",
             "attributes": {},
             "color": "rgb(196,218,188)",
-            "value": 0.7161511778831482
+            "value": 0.7
         },
         {
             "source": "46",
@@ -5384,7 +5384,7 @@
             "id": "96588",
             "attributes": {},
             "color": "rgb(244,194,148)",
-            "value": 0.5896639823913574
+            "value": 0.5
         },
         {
             "source": "92",
@@ -5392,7 +5392,7 @@
             "id": "1033180",
             "attributes": {},
             "color": "rgb(235,230,180)",
-            "value": 0.6206361651420593
+            "value": 0.6
         },
         {
             "source": "130",
@@ -5400,7 +5400,7 @@
             "id": "859189",
             "attributes": {},
             "color": "rgb(163,197,186)",
-            "value": 0.5811549425125122
+            "value": 0.5
         },
         {
             "source": "161",
@@ -5408,7 +5408,7 @@
             "id": "720367",
             "attributes": {},
             "color": "rgb(243,247,190)",
-            "value": 0.6034771800041199
+            "value": 0.6
         },
         {
             "source": "155",
@@ -5416,7 +5416,7 @@
             "id": "1150653",
             "attributes": {},
             "color": "rgb(101,159,184)",
-            "value": 0.6327154636383057
+            "value": 0.6
         },
         {
             "source": "33",
@@ -5424,7 +5424,7 @@
             "id": "370720",
             "attributes": {},
             "color": "rgb(175,187,172)",
-            "value": 0.661586195230484
+            "value": 0.6
         },
         {
             "source": "64",
@@ -5432,7 +5432,7 @@
             "id": "764871",
             "attributes": {},
             "color": "rgb(163,197,186)",
-            "value": 0.6936650276184082
+            "value": 0.6
         },
         {
             "source": "50",
@@ -5440,7 +5440,7 @@
             "id": "862141",
             "attributes": {},
             "color": "rgb(240,173,132)",
-            "value": 0.6254969239234924
+            "value": 0.6
         },
         {
             "source": "161",
@@ -5448,7 +5448,7 @@
             "id": "720384",
             "attributes": {},
             "color": "rgb(250,251,190)",
-            "value": 0.5905396938323975
+            "value": 0.5
         },
         {
             "source": "3",
@@ -5456,7 +5456,7 @@
             "id": "92489",
             "attributes": {},
             "color": "rgb(153,191,186)",
-            "value": 0.6490974426269531
+            "value": 0.6
         },
         {
             "source": "33",
@@ -5464,7 +5464,7 @@
             "id": "370728",
             "attributes": {},
             "color": "rgb(223,216,174)",
-            "value": 0.6319284439086914
+            "value": 0.6
         },
         {
             "source": "75",
@@ -5472,7 +5472,7 @@
             "id": "863749",
             "attributes": {},
             "color": "rgb(241,179,137)",
-            "value": 0.6304525136947632
+            "value": 0.6
         },
         {
             "source": "97",
@@ -5480,7 +5480,7 @@
             "id": "471442",
             "attributes": {},
             "color": "rgb(213,228,188)",
-            "value": 0.6338042616844177
+            "value": 0.6
         },
         {
             "source": "68",
@@ -5488,7 +5488,7 @@
             "id": "104951",
             "attributes": {},
             "color": "rgb(172,203,187)",
-            "value": 0.6459134817123413
+            "value": 0.6
         },
         {
             "source": "28",
@@ -5496,7 +5496,7 @@
             "id": "1167009",
             "attributes": {},
             "color": "rgb(232,241,189)",
-            "value": 0.6855541467666626
+            "value": 0.6
         },
         {
             "source": "128",
@@ -5504,7 +5504,7 @@
             "id": "459508",
             "attributes": {},
             "color": "rgb(204,223,188)",
-            "value": 0.5422077178955078
+            "value": 0.5
         },
         {
             "source": "13",
@@ -5512,7 +5512,7 @@
             "id": "30001",
             "attributes": {},
             "color": "rgb(198,219,188)",
-            "value": 0.6622276902198792
+            "value": 0.6
         }
     ]
 }
